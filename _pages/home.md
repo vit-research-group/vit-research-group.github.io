@@ -26,6 +26,7 @@ We are a dynamic computational research group at the [Department of Chemistry, C
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home3.jpg" alt="Slide 3" />
     </div>
+        </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -49,5 +50,5 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 
 
 <figure class="single">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" style="width: 310px">
 </figure>
