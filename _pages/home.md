@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic computational research group at the [**Department of Chemistry, CMS College **](https://cmscollege.ac.in/department-of-chemistry.html). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-<br/>
+We are a dynamic computational research group at the [Department of Chemistry, CMS College](https://cmscollege.ac.in/department-of-chemistry.html). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -36,10 +35,6 @@ We are a dynamic computational research group at the [**Department of Chemistry,
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
-
-<br/>
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
 We are located at **CMS College Kottayam, Kerala, IN** an autonomous college under *Mahatma Gandhi University*  We exchange ideas and work with collaborations from [Assumtion College, Changanacherry](https://assumptioncollege.edu.in/), [University Campus](https://www.mgu.ac.in/)
