@@ -27,7 +27,7 @@ $brand-danger:          #FF4136 !default;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               $gray-lighter !default;
+$body-bg:               #fff !default;
 //** Global text color on `<body>`.
 $text-color:            #000 !default;
 
@@ -146,7 +146,7 @@ $table-border-color:            $gray-lighter !default;
 $btn-font-weight:                normal !default;
 
 $btn-default-color:              $gray !default;
-$btn-default-bg:                 $gray !default;
+$btn-default-bg:                 $gray-light !default;
 $btn-default-border:             darken($btn-default-bg, 5%) !default;
 
 $btn-primary-color:              #fff !default;
