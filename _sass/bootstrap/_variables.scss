@@ -27,14 +27,14 @@ $brand-danger:          #FF4136 !default;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               #fff !default;
+$body-bg:               #b5b5b5 !default;
 //** Global text color on `<body>`.
-$text-color:            $gray !default;
+$text-color:            #000 !default;
 
 //** Global textual link color.
-$link-color:            #3b0008 !default;
+$link-color:            #9e0017 !default;
 //** Link hover color set via `darken()` function.
-$link-hover-color:      #1c0004 !default;
+$link-hover-color:      #9e0017 !default;
 //** Link hover decoration.
 $link-hover-decoration: underline !default;
 
@@ -67,9 +67,9 @@ $line-height-computed:    floor(($font-size-base * $line-height-base)) !default;
 
 //** By default, this inherits from the `<body>`.
 $headings-font-family:    inherit !default;
-$headings-font-weight:    400 !default;
+$headings-font-weight:    450 !default;
 $headings-line-height:    1.1 !default;
-$headings-color:          #3b0008 !default;
+$headings-color:          #9e0017 !default;
 
 
 //== Iconography
@@ -146,7 +146,7 @@ $table-border-color:            $gray-lighter !default;
 $btn-font-weight:                normal !default;
 
 $btn-default-color:              $gray !default;
-$btn-default-bg:                 $gray-lighter !default;
+$btn-default-bg:                 $gray !default;
 $btn-default-border:             darken($btn-default-bg, 5%) !default;
 
 $btn-primary-color:              #fff !default;
