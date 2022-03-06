@@ -1,7 +1,7 @@
 - name: Dr. Vibin Ipe Thomas
   photo: vibin.gif
-  info: Assistant professor
-  info: <a href="vibin@cmscollege.ac.in">vibin@cmscollege.ac.in</a>
+  info1: Assistant professor
+  info2: <a href="vibin@cmscollege.ac.in">vibin@cmscollege.ac.in</a>
   email: vibin@cmscollege.ac.in
   number_educ: 4
   education1: BSc., MG University, 2003 
