@@ -78,7 +78,7 @@ Jump to [Principal Investigator](#Principal Investigator), [master and bachelor 
 
 ## Team members
 {% assign number_printed = 0 %}
-{% for member in site.data.team_mem %}
+{% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -128,6 +128,7 @@ Jump to [Principal Investigator](#Principal Investigator), [master and bachelor 
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
 
 
 
