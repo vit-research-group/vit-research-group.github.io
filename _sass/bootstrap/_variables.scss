@@ -32,9 +32,9 @@ $body-bg:               #fff !default;
 $text-color:            #000 !default;
 
 //** Global textual link color.
-$link-color:            #9F2B68 !default;
+$link-color:            #301934 !default;
 //** Link hover color set via `darken()` function.
-$link-hover-color:      #9F2B68 !default;
+$link-hover-color:      #301934 !default;
 //** Link hover decoration.
 $link-hover-decoration: underline !default;
 
@@ -169,7 +169,7 @@ $btn-danger-color:               #fff !default;
 $btn-danger-bg:                  $brand-danger !default;
 $btn-danger-border:              darken($btn-danger-bg, 5%) !default;
 
-$btn-link-disabled-color:        $gray-light !default;
+$btn-link-disabled-color:        #301934 !default;
 
 // Allows for customizing button radius independently from global border radius
 $btn-border-radius-base:         $border-radius-base !default;
@@ -370,7 +370,7 @@ $navbar-default-bg:                #ddd7de !default;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
-$navbar-default-link-color:                $gray-light !default;
+$navbar-default-link-color:                #301934 !default;
 $navbar-default-link-hover-color:          $gray-dark !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
