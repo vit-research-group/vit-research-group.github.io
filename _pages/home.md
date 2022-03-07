@@ -50,5 +50,6 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 
 
 <figure class="single">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" style="width: 250px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/csir.jpg" style="width: 250px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/inspire.jpg" style="width: 250px">
 </figure>
