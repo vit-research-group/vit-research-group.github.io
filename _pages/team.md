@@ -1,7 +1,7 @@
 ---
 title: "VIT research group- Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "VIT Group: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [Principal Investigator](#Principal Investigator), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [Principal Investigator](#Principal Investigator), [Team Members](#Team Members), [alumni](#alumni), [administrative support](#administrative-support).
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
@@ -109,7 +109,7 @@ Jump to [Principal Investigator](#Principal Investigator), [master and bachelor 
 </div>
 {% endif %}
 
-
+## Collaborations
 
 
 
@@ -177,4 +177,4 @@ Jump to [Principal Investigator](#Principal Investigator), [master and bachelor 
 
 
 ## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+
