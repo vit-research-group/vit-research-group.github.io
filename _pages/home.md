@@ -6,7 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic computational research group at the [Department of Chemistry, CMS College](https://cmscollege.ac.in/department-of-chemistry.html). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a dynamic computational research group at the [Department of Chemistry, CMS College](https://cmscollege.ac.in/department-of-chemistry.html). Our aim is to explore and understand ......................................................................................................
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -39,14 +40,14 @@ We are a dynamic computational research group at the [Department of Chemistry, C
     
     
     
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+ We want to be able to build the perfect methodologies to answer the  scientific questions we deem most important (see [Research](research)).
+ 
+We are located at the [Department of Chemistry](https://cmscollege.ac.in/department-of-chemistry.html?dept_id=8), CMS College, Kottayam ("*an autonomous college affiliated to Mahatma gandhi University Kottayam*). Founded in 1817, the [CMS College](https://cmscollege.ac.in/) is now one of the largest colleges in Kerala with 23 departments offering 47 courses for 2521 students, 138 teaching faculty members and 35 administrative staffs.
+Within the department, students are always encouraged to work alongside with faculty on research projects and as coauthors on research publications. Students will develop critical and analytical thinking skills as they apply the knowledge and skills from your formal classrooms to cutting-edge research problems. Our graduates are well prepared to enter doctoral degree programs or to directly pursue careers in other fields such as education,  chemical, pharmaceutical industry, business, environmental science, pharmacology, toxicology, geochemistry and others.
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+ **We are  looking for passionate new PhD students, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).   
+The Chemistry Department is a Research Centre of the M.G. University from 1985 vide order no. ACAII/1/504/85 dated 29.10.1985.
 
 
 <figure class="single">
