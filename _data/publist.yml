@@ -8,16 +8,6 @@
   highlight: 1
   news2: 
   
-- title: "A Tunable Plasmonic Refractive Index Sensor with Ultrabroad Sensing Range for Cancer Detection"
-  image: TBG_SL.png
-  description: Contribution of quantum dots (QDs) and nano dots (NDs) in boosting the plasmonic behavior of noble metal nano cavity structure and its refractive index (RI) sensing is proposed across an ultrabroad RI range.
-  authors: Simitha S, Shinto M Francis, Jesly Jacob and Vibin Ipe Thomas
-  link:
-    url: https://doi.org/10.1007/s11468-021-01418-5
-    display:  https://doi.org/10.1007/s11468-021-01418-5 (2021)
-  highlight: 0
-  news2:
-
 - title: "Theoretical investigation into the mechanism of copper-catalyzed Sonogashira coupling using trans-1,2-diamino cyclohexane ligand"
   image: 2021-2.jpg
   description: The mechanism of copper-catalyzed Sonogashira coupling reaction employing trans-1,2-diamino cyclohexane ligand have been investigated with Density Functional Theory (DFT) method augmented with Conductor-like Polarizable Continuum Model (CPCM) solvation model.
@@ -27,6 +17,16 @@
     display:  https://doi.org/10.1016/j.poly.2020.114869 (2021)
   highlight: 1
   news2: 
+  
+- title: "A Tunable Plasmonic Refractive Index Sensor with Ultrabroad Sensing Range for Cancer Detection"
+  image: TBG_SL.png
+  description: Contribution of quantum dots (QDs) and nano dots (NDs) in boosting the plasmonic behavior of noble metal nano cavity structure and its refractive index (RI) sensing is proposed across an ultrabroad RI range.
+  authors: Simitha S, Shinto M Francis, Jesly Jacob and Vibin Ipe Thomas
+  link:
+    url: https://doi.org/10.1007/s11468-021-01418-5
+    display:  https://doi.org/10.1007/s11468-021-01418-5 (2021)
+  highlight: 0
+  news2:
 
 - title: "LC-MS analysis of p-aminosalicylic acid under electrospray ionization conditions manifests a profound solvent effect"
   image: 2021-2.jpg
