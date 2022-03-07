@@ -29,7 +29,7 @@ $brand-danger:          #FF4136 !default;
 //** Background color for `<body>`.
 $body-bg:               #fff !default;
 //** Global text color on `<body>`.
-$text-color:            #9F2B68 !default;
+$text-color:            #000 !default;
 
 //** Global textual link color.
 $link-color:            #9F2B68 !default;
@@ -69,7 +69,7 @@ $line-height-computed:    floor(($font-size-base * $line-height-base)) !default;
 $headings-font-family:    inherit !default;
 $headings-font-weight:    450 !default;
 $headings-line-height:    1.1 !default;
-$headings-color:          #9F2B68 !default;
+$headings-color:          #301934 !default;
 
 
 //== Iconography
@@ -366,7 +366,7 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
-$navbar-default-bg:                #f4d2f7 !default;
+$navbar-default-bg:                #ddd7de !default;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
@@ -391,7 +391,7 @@ $navbar-default-toggle-border-color:       $gray-lighter !default;
 
 //=== Inverted navbar
 // Reset inverted navbar basics
-$navbar-inverse-color:                      #f4d2f7 !default;
+$navbar-inverse-color:                      #ddd7de !default;
 $navbar-inverse-bg:                         #fff !default;
 $navbar-inverse-border:                     darken($navbar-inverse-bg, 10%) !default;
 
