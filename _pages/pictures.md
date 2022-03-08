@@ -7,8 +7,6 @@ permalink: /pictures/
 
 
 # collaborations
-
-## Principal Investigator
 {% assign number_printed = 0 %}
 {% for member in site.data.collaborations %}
 
@@ -19,7 +17,7 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-8 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: centre" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br> email: {{ member.email }}</i>
   <ul style="overflow: hidden">
