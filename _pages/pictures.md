@@ -1,6 +1,6 @@
 ---
 title: "Collaborations"
-layout: piclay
+layout: teamlay
 excerpt: "Collaborations"
 permalink: /pictures/
 ---
