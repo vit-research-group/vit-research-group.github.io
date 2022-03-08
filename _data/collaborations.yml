@@ -1,14 +1,14 @@
-- name: Rehin Sulay
-  photo: shin.jpg
-  info: Assistant Professor 
-        Dept. of Physics, Assumption College (Autonomous), Changanacherry, Kerala </p>
-  duration: She joined the research group in January 2019 after her B.Sc from Baselius College, Kottayam, and M.Sc from School of Chemical Science, Mahatma Gandhi University,Kottayam. She is a UGC Junior Research Fellow currently working on the computational reaction mechanistic studies of “oxidation of  atmospherically relevant nitrogen compounds”.
-  email: rehinsulay19@cmscollege.ac.in
+- name: Dr. Jesly Jacob
+  photo: jesly.jpg
+  info: <a href="https://assumptioncollege.edu.in/department/physics/faculty/dr-jesly-jacob">Assistant Professor  </a> , 
+        Dept. of Physics, Assumption College (Autonomous), Changanacherry, Kerala
+  duration: Area of Specialization: Theoretical and Computational Physics, Plasmonics
+  email: jeslyjacob@assumptioncollege.edu.in
   number_educ: 4
-  education1: BSc., MG University, 2003 
-  education2: MSc., MG University, 2005
-  education3: Ph.D., <a href="https://www.umontreal.ca/en/">University of Montreal</a>, 2012
-  education4: Post-doc, <a href="https://www.stanford.edu/">Stanford University, USA</a>, 2013-1
+  education1: BSc., MG University, 2004 
+  education2: MSc., MG University, 2006
+  education3: Ph.D., <a href="https://b-u.ac.in/15/department-physics">Bharathiar University, Coimbatore, India  </a>,(2008-2013)
+  education3: <a href="https://www.umontreal.ca/en/">ORCHID ID </a>,
   
 - name: Rehin Sulay
   photo: shin.jpg
