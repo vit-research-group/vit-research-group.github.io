@@ -1,61 +1,42 @@
 ---
-title: "VIT Group - Pictures"
+title: "Collaborations"
 layout: piclay
-excerpt: "VIT Group -- Pictures"
+excerpt: "Collaborations"
 permalink: /pictures/
 ---
 
-# Gallery
 
+# collaborations
 
-
-
-
-#### Research orientation session 
-<iframe width="320" height="180" src="https://www.youtube.com/embed/yE4dbXZ_eFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-(Right-click *'view image'* to see a larger image.)
+## Team members
 {% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
+{% for member in site.data.students %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <br> email: {{ member.email }}</i> <br> <br>
+  <i>{{ member.duration }} <br></i>
+  <ul style="overflow: hidden">
+
+  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd > 2 %}
-</div>
-{% endif %}
-
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
 
-{% if even_odd == 2 %}
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
 </div>
 {% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
-
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
-
-
