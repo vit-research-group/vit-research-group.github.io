@@ -1,3 +1,23 @@
+- name: Rehin Sulay
+  photo: raja.jpg
+  info: PhD student
+  duration: She joined the research group in January 2019 after her B.Sc from Baselius College, Kottayam, and M.Sc from School of Chemical Science, Mahatma Gandhi University,Kottayam. She is a UGC Junior Research Fellow currently working on the computational reaction mechanistic studies of “oxidation of  atmospherically relevant nitrogen compounds”.
+  email: rehinsulay19@cmscollege.ac.in
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 
+
+- name: Rajalaksmi C
+  photo: raja.jpg
+  info: PhD student
+  duration: Received her B.Sc and M.Sc from St. Thomas College, Kozhencherry, (Affiliated to Mahatma Gandhi University, Kottayam). She is a UGC Junior Research Fellow. Rajalakshmi is carrying out computational mechanistic studies of first-row transition metal-catalyzed Cross-Coupling Reactions.
+  email: rajalaksmi@cmscollege.ac.in
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 
+
 - name: Simitha S
   photo: simitha.jpg
   duration: Received her BSc and MSc in Chemistry from Mahatma Gandhi University, Kerala, India. Qualified National Eligibility Test (NET) in 2010 and worked as a Lecturer in Chemistry. Currently working on theoretical designing and analysis of plasmonic nanostrcutres for potential application in bio/chemical sensing from 2010 to 2018
@@ -9,11 +29,11 @@
   education3:
   education4:
 
-- name: Rajalaksmi C
-  photo: raja.jpg
+- name: Vishnupriya K S
+  photo: vishnupriya.jpg
   info: PhD student
-  duration: Received her B.Sc and M.Sc from St. Thomas College, Kozhencherry, (Affiliated to Mahatma Gandhi University, Kottayam). She is a UGC Junior Research Fellow. Rajalakshmi is carrying out computational mechanistic studies of first-row transition metal-catalyzed Cross-Coupling Reactions.
-  email: rajalaksmi@cmscollege.ac.in
+  duration: She has completed her post graduation in chemistry from St. George s college Aruvithura and has qualified CSIR - UGC NET with JRF, GATE. She has joined the VIT Group on February 2022 and currently focusing on theoretical investigation of plasmonic nanostructures. 
+  email: vishnupriya4950@gmail.com
   number_educ: 3
   education1: 
   education2: 
@@ -24,8 +44,16 @@
   duration: Received his MSc in Chemistry from Mahatma Gandhi University, Kerala and BSc from Kerala University, Thiruvananthapuram.  Currently working on theoretical designing and analysis of plasmonic nanostrcutres for potential application in bio/chemical sensing from 2010 to 2018
   info: Research Assistant
   email: shintofrancism@gmail.com
-  number_educ: 1
-  education1: Leidse instrumentmakers School
-  education2:
-  education3:
-  education4:
+  
+- name: Parvathi Santhoshkumar
+  photo: parvathi.jpg
+  duration: She joined the research group in 2019. She has done her B.Sc and M.Sc from CMS college. She is carrying out computational theory investigation on the mechanism of Ulmann reaction using Zn & Mn
+  info: Research Assistant
+  email: Parvathi.sk99@gmail.com
+  
+- name: Lakshmi Anil
+  photo: lakshmi.jpg
+  duration: She joined the our group in November 2020. She has done her M. Sc. From CMS College Kottayam. Lakshmi is carrying out of computational mechanistic studies of Zinc transition metal- catalyzed cross- coupling reactions.
+  info: Research Assistant
+  email: lakshmianil967@gmail.com
+  
