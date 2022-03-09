@@ -20,9 +20,9 @@
 
 - name: Simitha S
   photo: simitha.jpg
-  duration: Received her BSc and MSc in Chemistry from Mahatma Gandhi University, Kerala, India. Qualified National Eligibility Test (NET) in 2010 and worked as a Lecturer in Chemistry. Currently working on theoretical designing and analysis of plasmonic nanostrcutres for potential application in bio/chemical sensing from 2010 to 2018
+  duration: Received her BSc and MSc in Chemistry from Mahatma Gandhi University, Kerala, India. Qualified National Eligibility Test (NET) in 2010 and worked as a Lecturer in Chemistry. Currently working on theoretical designing and analysis of plasmonic nanostrcutres for potential application in bio/chemical sensing.
   info: Ph.D. Student
-  email: simithasasi@cmscollege.ac.in
+  email: simitha@cmscollege.ac.in
   number_educ: 1
   education1: Leidse instrumentmakers School
   education2:
@@ -39,9 +39,21 @@
   education2: 
   education3: 
   
+- name: Aiswarya P A
+  photo: aish.jpg
+  duration: Received her MSc and BSc in Physics from Mahatma Gandhi University, Kerala. Currently working on theoretical designing and analysis of plasmonic nanostrcutres for potential application in bio/chemical sensing from January 2021 onwards.
+  info: Research Assistant
+  email: aiswaryaprasad19@gmail.com
+  
+- name: Praseetha Prakash
+  photo: prs.jpg
+  duration: She joined the group in September 2020 to do her Masters project while pursuing MSc at School of Chemical Sciences, Mahatma Gandhi University. She did her Bachelors from CMS College Kottayam. Praseetha is currently investigating on computational mechanistic studies of Fe catalysis.
+  info: Research Assistant
+  email: praseethaprakash1997@gmail.com
+  
 - name: Shinto M Francis
   photo: shin.jpg
-  duration: Received his MSc in Chemistry from Mahatma Gandhi University, Kerala and BSc from Kerala University, Thiruvananthapuram.  Currently working on theoretical designing and analysis of plasmonic nanostrcutres for potential application in bio/chemical sensing from 2010 to 2018
+  duration: Received his MSc in Chemistry from Mahatma Gandhi University, Kerala and BSc from Kerala University, Thiruvananthapuram.  Currently working on theoretical designing and analysis of plasmonic nanostrcutres for potential application in bio/chemical sensing under the collaboration of VIT and Dr. Jesly Jacob.
   info: Research Assistant
   email: shintofrancism@gmail.com
   
@@ -62,6 +74,12 @@
   duration: She joined the research group in June 2021. She has done her B.Sc. from Mar Thoma College, Thiruvalla and is currently pursuing her M.Sc. from CMS College, Kottayam. (Affiliated to Mahatma Gandhi University, Kottayam). She is currently working on a scientific review article in the area of computational mechanistic studies of Zn .transition metal-catalyzed Cross-Coupling Reactions.
   info: Research Assistant
   email: lydia09_2022@cmscollege.ac.in
+  
+- name: Devika Mohan
+  photo: dev.jpg
+  duration: She joined the VIT group on November 2021 under collaboration with Dr. Jesly Jacob, Assumtion College Chanaganacherry. currently working on the theoretical study of plasmonic behaviour of nanoparticles using FDTD method ( MEEP software).She was a summer research fellow at Indian Institute of Science, Bengaluru on the project "2D materials and Van der Waals heterostructures" during Dec 2020 - Jan 2021.
+  info: Research Assistant
+  email: devikamohan88@gmail.com
   
 - name: Krishnaveni G
   photo: krsh.jpg
