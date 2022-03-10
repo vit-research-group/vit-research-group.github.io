@@ -27,14 +27,14 @@ $brand-danger:          #FF4136 !default;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:                #fff !default;
+$body-bg:                #0f0f0f !default;
 //** Global text color on `<body>`.
-$text-color:            #000 !default;
+$text-color:            #fff !default;
 
 //** Global textual link color.
-$link-color:            #006063 !default;
+$link-color:            #8f0000 !default;
 //** Link hover color set via `darken()` function.
-$link-hover-color:      #006063 !default;
+$link-hover-color:      #8f0000 !default;
 //** Link hover decoration.
 $link-hover-decoration: underline !default;
 
@@ -69,7 +69,7 @@ $line-height-computed:    floor(($font-size-base * $line-height-base)) !default;
 $headings-font-family:    Georgia !default;
 $headings-font-weight:    450 !default;
 $headings-line-height:    1.1 !default;
-$headings-color:          #006063 !default;
+$headings-color:          #8f0000 !default;
 
 
 //== Iconography
@@ -323,7 +323,7 @@ $screen-md-max:              ($screen-lg-min - 1) !default;
 //## Define your custom responsive grid.
 
 //** Number of columns in the grid.
-$grid-columns:              15 !default;
+$grid-columns:              10 !default;
 //** Padding between columns. Gets divided in half for the left and right.
 $grid-gutter-width:         30px !default;
 // Navbar collapse
@@ -370,8 +370,8 @@ $navbar-default-bg:                #000 !default;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
-$navbar-default-link-color:                #006063 !default;
-$navbar-default-link-hover-color:          #000000 !default;
+$navbar-default-link-color:                #8f0000 !default;
+$navbar-default-link-hover-color:          #fff !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            #000 !default;
