@@ -29,12 +29,12 @@ $brand-danger:          #FF4136 !default;
 //** Background color for `<body>`.
 $body-bg:                #fff !default;
 //** Global text color on `<body>`.
-$text-color:            #201e20 !default;
+$text-color:            #000 !default;
 
 //** Global textual link color.
-$link-color:            #e0a96d !default;
+$link-color:            #006b38ff  !default;
 //** Link hover color set via `darken()` function.
-$link-hover-color:      #ddc3a5 !default;
+$link-hover-color:      #000 !default;
 //** Link hover decoration.
 $link-hover-decoration: underline !default;
 
@@ -69,7 +69,7 @@ $line-height-computed:    floor(($font-size-base * $line-height-base)) !default;
 $headings-font-family:    Georgia !default;
 $headings-font-weight:    450 !default;
 $headings-line-height:    1.1 !default;
-$headings-color:          #e0a96d !default;
+$headings-color:          #006B38FF !default;
 
 
 //== Iconography
@@ -130,9 +130,9 @@ $table-condensed-cell-padding:  5px !default;
 //** Default background color used for all tables.
 $table-bg:                      transparent !default;
 //** Background color used for `.table-striped`.
-$table-bg-accent:               #ddc3a5 !default;
+$table-bg-accent:               #d1ded1 !default;
 //** Background color used for `.table-hover`.
-$table-bg-hover:                #ddc3a5 !default;
+$table-bg-hover:                #d1ded1 !default;
 $table-bg-active:               $table-bg-hover !default;
 
 //** Border color for table and cell borders.
@@ -366,12 +366,12 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
-$navbar-default-bg:                #ddc3a5 !default;
-$navbar-default-border:            #e0a96d !default;
+$navbar-default-bg:                #cfdbce !default;
+$navbar-default-border:            #bbccba !default;
 
 // Navbar links
-$navbar-default-link-color:                #e0a96d !default;
-$navbar-default-link-hover-color:          #201e20 !default;
+$navbar-default-link-color:                #006B38FF !default;
+$navbar-default-link-hover-color:          #000 !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            #fff !default;
