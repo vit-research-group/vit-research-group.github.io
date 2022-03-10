@@ -32,9 +32,9 @@ $body-bg:                #fff !default;
 $text-color:            #000 !default;
 
 //** Global textual link color.
-$link-color:            #0d0140 !default;
+$link-color:            #005b9c !default;
 //** Link hover color set via `darken()` function.
-$link-hover-color:      #0d0140 !default;
+$link-hover-color:      #005b9c !default;
 //** Link hover decoration.
 $link-hover-decoration: underline !default;
 
@@ -132,7 +132,7 @@ $table-bg:                      transparent !default;
 //** Background color used for `.table-striped`.
 $table-bg-accent:               #bfd6d4 !default;
 //** Background color used for `.table-hover`.
-$table-bg-hover:                #fff !default;
+$table-bg-hover:                 #bfd6d4 !default;
 $table-bg-active:               $table-bg-hover !default;
 
 //** Border color for table and cell borders.
@@ -323,9 +323,9 @@ $screen-md-max:              ($screen-lg-min - 1) !default;
 //## Define your custom responsive grid.
 
 //** Number of columns in the grid.
-$grid-columns:              13 !default;
+$grid-columns:              12 !default;
 //** Padding between columns. Gets divided in half for the left and right.
-$grid-gutter-width:         35px !default;
+$grid-gutter-width:         25px !default;
 // Navbar collapse
 //** Point at which the navbar becomes uncollapsed.
 $grid-float-breakpoint:     $screen-sm-min !default;
@@ -371,7 +371,7 @@ $navbar-default-border:            $input-border !default;
 
 // Navbar links
 $navbar-default-link-color:                #000 !default;
-$navbar-default-link-hover-color:          #0d0140 !default;
+$navbar-default-link-hover-color:          #005b9c !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            #fff !default;
@@ -391,7 +391,7 @@ $navbar-default-toggle-border-color:       $gray !default;
 
 //=== Inverted navbar
 // Reset inverted navbar basics
-$navbar-inverse-color:                      #bfbad4 !default;
+$navbar-inverse-color:                      #8faec4 !default;
 $navbar-inverse-bg:                         #fff !default;
 $navbar-inverse-border:                     darken($navbar-inverse-bg, 10%) !default;
 
