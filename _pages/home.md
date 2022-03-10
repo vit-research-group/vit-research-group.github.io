@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic computational research group at the [Department of Chemistry, CMS College](https://cmscollege.ac.in/department-of-chemistry.html). Our aim is to explore and understand .............. ........... .... ..... ........... .......... ...... ....... ...... ..... ......... ...... ........
+We are a dynamic computational research group at the [Department of Chemistry](https://cmscollege.ac.in/department-of-chemistry.html), , CMS College Kottayam. Our aim is to explore and understand .............. ........... .... ..... ........... .......... ...... ....... ...... ..... ......... ...... ........
  
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -42,7 +42,7 @@ We are a dynamic computational research group at the [Department of Chemistry, C
     
  We want to be able to build the perfect methodologies to answer the  scientific questions we deem most important (see [Research](research)).
  
-We are located at the Department of Chemistry, CMS College, Kottayam (*an autonomous college affiliated to Mahatma gandhi University Kottayam*). Founded in 1817, the [CMS College](https://cmscollege.ac.in/) is now one of the largest colleges in Kerala with 23 departments offering 47 courses for 2521 students, 138 teaching faculty members and 35 administrative staffs.
+We are located at the Department of Chemistry, CMS College, Kottayam (*an autonomous college affiliated to Mahatma gandhi University Kottayam*). Founded in **1817**, the [CMS College](https://cmscollege.ac.in/) is now one of the largest colleges in Kerala with 23 departments offering 47 courses for 2521 students, 138 teaching faculty members and 35 administrative staffs.
 
 Within the [Department](https://cmscollege.ac.in/department-of-chemistry.html?dept_id=8), students are always encouraged to work alongside with faculty on research projects and as coauthors on research publications. Students will develop critical and analytical thinking skills as they apply the knowledge and skills from your formal classrooms to cutting-edge research problems. Our graduates are well prepared to enter doctoral degree programs or to directly pursue careers in other fields such as education,  chemical, pharmaceutical industry, business, environmental science, pharmacology, toxicology, geochemistry and others.
 
