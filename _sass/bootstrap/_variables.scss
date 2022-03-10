@@ -27,7 +27,7 @@ $brand-danger:          #FF4136 !default;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               #fff !default;
+$body-bg:                #dcecf2 !default;
 //** Global text color on `<body>`.
 $text-color:            #000 !default;
 
@@ -47,7 +47,7 @@ $font-family-sans-serif:  "Source Sans Pro", "Helvetica Neue", Helvetica, Arial,
 $font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
-$font-family-base:        Georgia !default;
+$font-family-base:        "Source Sans Pro" !default;
 
 $font-size-base:          16px !default;
 $font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px
@@ -66,8 +66,8 @@ $line-height-base:        1.428571429 !default; // 20/14
 $line-height-computed:    floor(($font-size-base * $line-height-base)) !default; // ~20px
 
 //** By default, this inherits from the `<body>`.
-$headings-font-family:    Georgia !default;
-$headings-font-weight:    500 !default;
+$headings-font-family:    "Source Sans Pro" !default;
+$headings-font-weight:    450 !default;
 $headings-line-height:    1.1 !default;
 $headings-color:          #006063 !default;
 
@@ -79,7 +79,7 @@ $headings-color:          #006063 !default;
 //** Load fonts from this directory.
 $icon-font-path: if($bootstrap-sass-asset-helper, "bootstrap/", "../fonts/") !default;
 //** File name for all font files.
-$icon-font-name:          Georgia !default;
+$icon-font-name:          "Source Sans Pro" !default;
 //** Element ID within SVG icon file.
 $icon-font-svg-id:        "glyphicons_halflingsregular" !default;
 
@@ -132,7 +132,7 @@ $table-bg:                      transparent !default;
 //** Background color used for `.table-striped`.
 $table-bg-accent:               #f9f9f9 !default;
 //** Background color used for `.table-hover`.
-$table-bg-hover:                #dcecf2 !default;
+$table-bg-hover:                #fff !default;
 $table-bg-active:               $table-bg-hover !default;
 
 //** Border color for table and cell borders.
@@ -375,7 +375,7 @@ $navbar-default-link-hover-color:          #000000 !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            #000 !default;
-$navbar-default-link-disabled-color:       $gray-lighter !default;
+$navbar-default-link-disabled-color:       $gray !default;
 $navbar-default-link-disabled-bg:          transparent !default;
 
 // Navbar brand label
