@@ -32,7 +32,7 @@ $body-bg:                #fff !default;
 $text-color:            #000 !default;
 
 //** Global textual link color.
-$link-color:            #006b38ff  !default;
+$link-color:            #700000  !default;
 //** Link hover color set via `darken()` function.
 $link-hover-color:      #000 !default;
 //** Link hover decoration.
@@ -69,7 +69,7 @@ $line-height-computed:    floor(($font-size-base * $line-height-base)) !default;
 $headings-font-family:    Georgia !default;
 $headings-font-weight:    450 !default;
 $headings-line-height:    1.1 !default;
-$headings-color:          #006B38FF !default;
+$headings-color:          #700000 !default;
 
 
 //== Iconography
@@ -130,9 +130,9 @@ $table-condensed-cell-padding:  5px !default;
 //** Default background color used for all tables.
 $table-bg:                      transparent !default;
 //** Background color used for `.table-striped`.
-$table-bg-accent:               #d1ded1 !default;
+$table-bg-accent:               #454243 !default;
 //** Background color used for `.table-hover`.
-$table-bg-hover:                #d1ded1 !default;
+$table-bg-hover:                #454243 !default;
 $table-bg-active:               $table-bg-hover !default;
 
 //** Border color for table and cell borders.
@@ -366,12 +366,12 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
-$navbar-default-bg:                #cfdbce !default;
-$navbar-default-border:            #bbccba !default;
+$navbar-default-bg:                #454243 !default;
+$navbar-default-border:            #ede6e6 !default;
 
 // Navbar links
-$navbar-default-link-color:                #006B38FF !default;
-$navbar-default-link-hover-color:          #000 !default;
+$navbar-default-link-color:                #fff !default;
+$navbar-default-link-hover-color:          #700000 !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            #fff !default;
@@ -391,7 +391,7 @@ $navbar-default-toggle-border-color:       $gray !default;
 
 //=== Inverted navbar
 // Reset inverted navbar basics
-$navbar-inverse-color:                      #8faec4 !default;
+$navbar-inverse-color:                      #454243 !default;
 $navbar-inverse-bg:                         #fff !default;
 $navbar-inverse-border:                     darken($navbar-inverse-bg, 10%) !default;
 
