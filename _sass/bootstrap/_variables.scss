@@ -711,7 +711,7 @@ $panel-border-radius:         $border-radius-base !default;
 
 //** Border color for elements within panels
 $panel-inner-border:          transparent !default;
-$panel-footer-bg:             #454243 !default;
+$panel-footer-bg:             #f0ebeb !default;
 
 $panel-default-text:          #fff !default;
 $panel-default-border:        transparent !default;
@@ -725,7 +725,7 @@ $panel-success-text:          $state-success-text !default;
 $panel-success-border:        transparent !default;
 $panel-success-heading-bg:    $state-success-bg !default;
 
-$panel-info-text:             $state-info-text !default;
+$panel-info-text:             #fff !default;
 $panel-info-border:           transparent !default;
 $panel-info-heading-bg:       $state-info-bg !default;
 
