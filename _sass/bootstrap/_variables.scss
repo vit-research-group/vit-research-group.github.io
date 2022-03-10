@@ -32,9 +32,9 @@ $body-bg:               #fff !default;
 $text-color:            #000 !default;
 
 //** Global textual link color.
-$link-color:            #73000d !default;
+$link-color:            #006063 !default;
 //** Link hover color set via `darken()` function.
-$link-hover-color:      #73000d !default;
+$link-hover-color:      #006063 !default;
 //** Link hover decoration.
 $link-hover-decoration: underline !default;
 
@@ -66,10 +66,10 @@ $line-height-base:        1.428571429 !default; // 20/14
 $line-height-computed:    floor(($font-size-base * $line-height-base)) !default; // ~20px
 
 //** By default, this inherits from the `<body>`.
-$headings-font-family:    inherit !default;
-$headings-font-weight:    450 !default;
+$headings-font-family:    Times !default;
+$headings-font-weight:    500 !default;
 $headings-line-height:    1.1 !default;
-$headings-color:          #73000d !default;
+$headings-color:          #006063 !default;
 
 
 //== Iconography
@@ -132,7 +132,7 @@ $table-bg:                      transparent !default;
 //** Background color used for `.table-striped`.
 $table-bg-accent:               #f9f9f9 !default;
 //** Background color used for `.table-hover`.
-$table-bg-hover:                #f5f5f5 !default;
+$table-bg-hover:                #dcecf2 !default;
 $table-bg-active:               $table-bg-hover !default;
 
 //** Border color for table and cell borders.
@@ -370,8 +370,8 @@ $navbar-default-bg:                #f2f0f2 !default;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
-$navbar-default-link-color:                #73000d !default;
-$navbar-default-link-hover-color:          $gray-dark !default;
+$navbar-default-link-color:                #006063 !default;
+$navbar-default-link-hover-color:          #0096cc !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            transparent !default;
