@@ -32,9 +32,9 @@ $body-bg:                #fff !default;
 $text-color:            #000 !default;
 
 //** Global textual link color.
-$link-color:            #006156 !default;
+$link-color:            #0d0140 !default;
 //** Link hover color set via `darken()` function.
-$link-hover-color:      #006156 !default;
+$link-hover-color:      #0d0140 !default;
 //** Link hover decoration.
 $link-hover-decoration: underline !default;
 
@@ -370,8 +370,8 @@ $navbar-default-bg:                #bfd6d4 !default;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
-$navbar-default-link-color:                #006156 !default;
-$navbar-default-link-hover-color:          #fff !default;
+$navbar-default-link-color:                #000 !default;
+$navbar-default-link-hover-color:          #0d0140 !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            #fff !default;
@@ -391,7 +391,7 @@ $navbar-default-toggle-border-color:       $gray !default;
 
 //=== Inverted navbar
 // Reset inverted navbar basics
-$navbar-inverse-color:                      #006156 !default;
+$navbar-inverse-color:                      #bfbad4 !default;
 $navbar-inverse-bg:                         #fff !default;
 $navbar-inverse-border:                     darken($navbar-inverse-bg, 10%) !default;
 
