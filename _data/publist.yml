@@ -1,3 +1,13 @@
+- title: "Rapid Computational Approach Towards Designing Singlet-Fission Chromophores by Tuning the Diradical Character of Heteroatom-Doped Polycyclic Aromatic Hydrocarbons Using the Atom-Specific Fukui Function"
+  image: c2022.jpg
+  description: we demonstrate a TDDFT-based rapid and cost-effective computational approach for designing SF chromophores by doping various atomic sites (substituting carbon atoms) of polycyclic aromatic hydrocarbons with nitrogen, phosphorus, and silicon. 
+  authors: Christina Mariam Mathew, Ann Varghese, Sunish K. Sugunan, and Vibin Ipe Thomas
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.jpca.1c08094
+    display: https://pubs.acs.org/doi/10.1021/acs.jpca.1c08094 (2022)
+  highlight: 1
+  news2: 
+
 - title: "Dual channel plasmonic hybrid system as potential multi-analyte and multi-parameter sensor"
   image: 2022.jpg
   description: LSPR based multisensory design is theoretically proposed for simultaneous detection of multiple analytes. Tuneable sensor performance across a broad sensing range 0.4 to1.8 RIU with maximum sensitivity of 4267.60 nmRIU−1, FOM 82.23 RIU−1 and Q factor 116.51 respectively is observed.
@@ -15,7 +25,7 @@
   link:
     url: https://doi.org/10.1007/s11468-021-01418-5
     display:  https://doi.org/10.1007/s11468-021-01418-5 (2021)
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "Theoretical investigation into the mechanism of copper-catalyzed Sonogashira coupling using trans-1,2-diamino cyclohexane ligand"
@@ -29,7 +39,6 @@
   news2: 
   
 
-
 - title: "LC-MS analysis of p-aminosalicylic acid under electrospray ionization conditions manifests a profound solvent effect"
   image: 2021-2.jpg
   description: Selected-ion recording (SIR) or multiple-reaction monitoring (MRM) protocols are widely employed for the quantification of targeted analytes by liquid chromatography-mass spectrometry (LC-MS).
@@ -39,3 +48,39 @@
     display:  https://doi.org/10.1039/D0AN00680G (2020)
   highlight: 1
 
+
+- title: "Modelling and synthesis of solution processable dibenzothiophene derivative for organic electronics"
+  image: 
+  description: 
+  authors: Seena Elizabeth George, Vibin Ipe Thomas, Beena James, Pearl Augustine, C.Rajalakshmi, and P.Manoj
+  link:
+    url: https://doi.org/10.1016/j.matpr.2020.03.731
+    display:  https://doi.org/10.1016/j.matpr.2020.03.731 (2020)
+  highlight: 0
+
+- title: "Solvent dependent ESI-collisionally induced dissociation of protonated nitenpyram"
+  image: 
+  description: 
+  authors: Jisha Chandran, U.K.Aravind, C.Rajalakshmi, Vibin Ipe Thomas, P.T.Nguyen, and C.T.Aravindakumar
+  link:
+    url: https://doi.org/10.1016/j.ijms.2019.116207
+    display:  https://doi.org/10.1016/j.ijms.2019.116207 (2019)
+  highlight: 0
+  
+- title: "Theoretical Probing of Weak Anion–Cation Interactions in Certain Pyridinium-Based Ionic Liquid Ion Pairs and the Application of Molecular Electrostatic Potential in Their Ionic Crystal Density Determination: A Comparative Study Using Density Functional Approach"
+  image: 
+  description: 
+  authors: Aswathy Joseph, Vibin Ipe Thomas, Gaweł Żyła, A. S. Padmanabhan, and Suresh Mathew
+  link:
+    url: https://doi.org/10.1021/acs.jpca.7b09189
+    display:  https://doi.org/10.1021/acs.jpca.7b09189 (2018)
+  highlight: 0
+  
+- title: "Paramagnetic ionic liquids for advanced applications: A review"
+  image: 
+  description: 
+  authors: Aswathy Joseph, Gaweł Żyła, Vibin Ipe Thomas, P. Radhakrishnan Nair, A.S.Padmanabhan, and Suresh Mathew
+  link:
+    url: https://doi.org/10.1016/j.molliq.2016.02.086
+    display:  https://doi.org/10.1016/j.molliq.2016.02.086 (2018)
+  highlight: 0
