@@ -26,7 +26,7 @@ Our work is primarily based on the cross-coupling reactions catalyzed by earth a
 
 Our focus in this area is to investigate the plausible mechanism of formation of the important gas phase nitrogenous compounds in the environment formed via the binary/ternary associative attachments between the nitrogen species with atmospheric trace gases. In particular we have been interested in developing different reaction pathways for the formation of negatively charged oxides of nitrogen, from the interaction of molecular nitrogen and oxides of nitrogen with the negatively charged oxygen ions(On-) and also the formation of neutral nitrosamines by the ozonation of different hydrazine compounds. For example we have recently developed the oxidative reaction pathway for the reaction of N2/NOx with superoxide and ozone anion. The nature of these reactions can be studied with quantum chemical calculations. Quantum chemical calculations have advantages in exploring reaction mechanisms by identifying transient species and providing thermodynamic data. We are also interested in developing the quantum chemical methods to study the structure, spectroscopy and reactivity of different positively and negatively charged hydrated cluster ion species in the atmosphere.
 
-Nb-Figure adopted from [Simpson et.al](https://doi.org/10.1016/j.cosust.2014.07.008)
+Nb-Figure adopted from [Simpson et.al (2014)](https://doi.org/10.1016/j.cosust.2014.07.008)
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
