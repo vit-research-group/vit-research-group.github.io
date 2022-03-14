@@ -39,7 +39,7 @@ Our focus in this area is to investigate the plausible mechanism of formation of
 
 **Localized sureface plasmon resonace (LSPR) nanostructures for sensing and solar cell applications**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/reh_research.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/pl2.png){: style="width: 250px; float: left; margin: 0px  10px"}
 
 Following its broad applicability in chemical and biosensing, the characteristic light-matter interaction at the nanoscale regime exhibited by plasmonic structures has recently sparked a lot of interest. The plasmonics wing at the VIT group in collaboration with Dr. Jesly Jacob focuses on localized surface plasmon resonance (LSPR) refractive index sensors that take advantage of the highly tuneable resonant profiles of plasmonic structures, specifically cavity-based nanoplatforms. Theoretical simulations and performance optimizations are carried out via finite element method. Fine-tuning of the geometrical and material parameters of nanomaterials resulted in proposing hybrid nano sensor platforms with improved performance parameters. Quantum dots, metallic nano dots, nanowires etc. following their plasmon- exciton and dual plasmon coupling are qualitatively exploited for productive structure performance.  IN addition, Breaking of symmetry, channel based multi analyte sensing and direction dependent functionality forms the currently ongoing research topics.
 
