@@ -8,6 +8,16 @@
   education2: 
   education3: 
 
+- name: Christina Mariam Mathew
+  photo: chris.jpg
+  info: PhD student
+  duration: She joined the VIT group as project student in 2018 and later converted into Phd from 2020. She qualified NET in 2015 and is currently wokring as Assistant Professor in Baselius College. Her research area includes the utilization of Time Dependent Density Functional Theory (TDDFT) and post Hartree- Fock Methods such as Complete Active Space Self Consistent Field Method (CASSCF) and Multi Reference Configuration Interaction Method (MRCI) to describe the excited state properties of computationally designed new chromophores.
+  email: mailtocmm@gmail.com
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 
+
 - name: Rajalaksmi C
   photo: raja.jpg
   info: PhD student
@@ -28,16 +38,6 @@
   education2:
   education3:
   education4:
-
-- name: Vishnupriya K S
-  photo: vishnupriya.jpg
-  info: PhD student
-  duration: She has completed her post graduation in chemistry from St. George s college Aruvithura and has qualified CSIR - UGC NET with JRF, GATE. She has joined the VIT Group on February 2022 and currently focusing on theoretical investigation of plasmonic nanostructures. 
-  email: vishnupriya4950@gmail.com
-  number_educ: 3
-  education1: 
-  education2: 
-  education3: 
   
 - name: Aiswarya P A
   photo: aish.jpg
@@ -53,9 +53,15 @@
   
 - name: Shinto M Francis
   photo: shin.jpg
-  duration: Received his MSc in Chemistry from Mahatma Gandhi University, Kerala and BSc from Kerala University, Thiruvananthapuram.  Currently working on theoretical designing and analysis of plasmonic nanostrcutres for potential application in bio/chemical sensing under the collaboration of VIT and Dr. Jesly Jacob.
+  duration: Received his MSc in Physics from Mahatma Gandhi University, Kerala and BSc from Kerala University, Thiruvananthapuram.  Currently working on theoretical designing and analysis of plasmonic nanostrcutres for potential application in bio/chemical sensing under the collaboration of VIT and Dr. Jesly Jacob.
   info: Research Assistant
   email: shintofrancism@gmail.com
+  
+- name: Sudheesh D
+  photo: sud.jpg
+  duration: Received his BSc and MSc in Physics from Mahatma Gandhi University. His current research areas includes computational investigation in mechanisms of Transition metal catalysed cross coupling reactions and Synthesis and mechanistic investigations of puromycin analogues (in collaboration with Dr.Krishnakumar K S st.alberts college Ernakulam)
+  info: Research Assistant
+  email: sudheesh5797@gmail.com
   
 - name: Parvathi Santhoshkumar
   photo: parvathi.jpg
