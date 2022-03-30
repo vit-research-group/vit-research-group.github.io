@@ -6,7 +6,6 @@
 
 - name: Anandu
   photo: anandhu.jpg
-  info: 
   duration: Ph.D. student at Michigan Technical University, USA (2021)
   email: 
   number_educ: 3
@@ -16,7 +15,6 @@
   
 - name: Abhijith Kumar
   photo: abhi.jpg
-  info: 
   duration: Ph.D. student at Case Western Reserve University, Ohio, USA (2021)
   email: 
   number_educ: 3
@@ -26,8 +24,7 @@
   
 - name: Jibin S S
   photo: jibin.jpg
-  duration: North Carolina University, USA (2021)
-  info: 
+  duration: Ph.D. student at North Carolina University, USA (2021)
   email: 
   number_educ: 1
   education1: 
