@@ -8,9 +8,9 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+Our overarching goal is to explore and understand ..............................................
 
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. We further have group members with different background and interests, working together on physics and instrumentation.
+Our goal is to develop techniques that enable us to address the questions we find most interesting. We further have group members with different background and interests, working together on computation and simulation.
 
 Here are some themes and topics that we currently work on:
 
