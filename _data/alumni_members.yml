@@ -1,31 +1,36 @@
-- name: Simitha S
-  photo: simitha.jpg
-  duration: Received her BSc and MSc in Chemistry from Mahatma Gandhi University, Kerala, India. Qualified National Eligibility Test (NET) in 2010 and worked as a Lecturer in Chemistry. Currently working on theoretical designing and analysis of plasmonic nanostrcutres for potential application in bio/chemical sensing from 2010 to 2018
-  info: Ph.D. Student
-  email: simithasasi@cmscollege.ac.in
-  number_educ: 1
-  education1: Leidse instrumentmakers School
-  education2:
-  education3:
-  education4:
+- name: Aleesha Mariya George
+  photo: aleesha.jpg
+  duration: Ph.D. student at Cornell University, USA (2021)
+  info: 
+  email:
 
-- name: Rajalaksmi C
-  photo: raja.jpg
-  info: PhD student
-  duration: Received her B.Sc and M.Sc from St. Thomas College, Kozhencherry, (Affiliated to Mahatma Gandhi University, Kottayam). She is a UGC Junior Research Fellow. Rajalakshmi is carrying out computational mechanistic studies of first-row transition metal-catalyzed Cross-Coupling Reactions.
-  email: rajalaksmi@cmscollege.ac.in
+- name: Anandu
+  photo: anandhu.jpg
+  info: 
+  duration: Ph.D. student at Michigan Technical University, USA (2021)
+  email: 
   number_educ: 3
   education1: 
   education2: 
   education3: 
   
-- name: Shinto M Francis
-  photo: shin.jpg
-  duration: Received his MSc in Chemistry from Mahatma Gandhi University, Kerala and BSc from Kerala University, Thiruvananthapuram.  Currently working on theoretical designing and analysis of plasmonic nanostrcutres for potential application in bio/chemical sensing from 2010 to 2018
-  info: Research Assistant
-  email: shintofrancism@gmail.com
+- name: Abhijith Kumar
+  photo: abhi.jpg
+  info: 
+  duration: Ph.D. student at Case Western Reserve University, Ohio, USA (2021)
+  email: 
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 
+  
+- name: Jibin S S
+  photo: jibin.jpg
+  duration: North Carolina University, USA (2021)
+  info: 
+  email: 
   number_educ: 1
-  education1: Leidse instrumentmakers School
+  education1: 
   education2:
   education3:
   education4:
