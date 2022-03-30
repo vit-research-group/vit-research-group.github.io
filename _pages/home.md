@@ -54,4 +54,5 @@ The Chemistry Department is a Research Centre of the M.G. University from 1985 v
 <figure class="single">
   <img src="{{ site.url }}{{ site.baseurl }}/images/csir.jpg" style="width: 200px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/inspire.jpg" style="width: 200px">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/ugc.jpg" style="width: 200px">
 </figure>
