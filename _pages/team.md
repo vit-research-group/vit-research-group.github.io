@@ -123,7 +123,7 @@ Jump to [Principal Investigator](#Principal Investigator), [Team Members](#Team 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.duration }}</i>
   <ul style="overflow: hidden">
 
   </ul>
