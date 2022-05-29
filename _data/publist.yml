@@ -1,3 +1,13 @@
+- title: "Electronic structure and luminescence characteristics of rare earth free self-activated Ca2Sb2O7 blue emitting phosphor"
+  image: c3.gif
+  description: we report a novel rare-earth-free self-activated blue phosphor Ca2Sb2O7, synthesized by solid-state reaction method. The electronic structure and bandgap of the material were determined by the density functional theory (DFT + U) method using Perdew-Burke-Ernzerhof (PBE) exchange-correlation functional. The prepared phosphor could be effectively excited in the range 280–370 nm resulting in a broad blue emission band, owing to the Sb5+ → O2− transition in the (SbO6)7- group.  
+  authors: Anns George, Remya Mohan P, P.A.Aiswarya, C.Rajalakshmi, Vibin Ipe Thomas, Cyriac Joseph and P.R.Biju
+  link:
+    url: https://doi.org/10.1016/j.cap.2022.05.007
+    display: https://doi.org/10.1016/j.cap.2022.05.007 (2022)
+  highlight: 0
+  news2:
+
 - title: "UNRAVELLING THE MECHANISM OF COBALT (II) CATALYZED O-ARYLATION REACTION BETWEEN ARYL HALIDES AND PHENOLS: A DFT STUDY"
   image: c3.gif
   description: A detailed theoretical investigation into the mechanism of the cobalt (II) catalyzed O-arylation reaction of phenols with aryl iodides has been carried out with the aid of the Density Functional Theory method at the UB3LYP-D3 level of theory.  
