@@ -6,8 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic computational research group at the [Department of Chemistry](https://cmscollege.ac.in/department-of-chemistry.html), , CMS College Kottayam. Our aim is to explore and understand 
-Our research group is directed towards understanding and solving some of the challenging and exciting problems in science by utilizing the power of computational and theoretical methods. Our mission is to shed light on the canopy of unexplored knowledge with the aid of computational methods based on classical and modern theories for understanding experimental observations. We seek to explore the origin of a diverse series of scientific phenomena with the aid of the above techniques. By doing so, we are also aiming at making science more interesting and fascinating for the researchers who practice it. 
+Our research group is directed towards understanding and solving some of the challenging and exciting problems in science by utilizing the power of computational and theoretical methods. Our mission is to shed light on the canopy of unexplored knowledge with the aid of computational methods based on classical and modern theories for understanding experimental observations. 
+
+We seek to explore the origin of a diverse series of scientific phenomena with the aid of the above techniques. By doing so, we are also aiming at making science more interesting and fascinating for the researchers who practice it. 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
