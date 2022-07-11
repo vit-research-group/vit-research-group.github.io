@@ -2,7 +2,7 @@
 title: "Collaborations"
 layout: gridlay
 excerpt: "Collaborations"
-permalink: /pictures/
+permalink: /Collaborations/
 ---
 
 
