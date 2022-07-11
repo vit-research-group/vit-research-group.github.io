@@ -40,7 +40,7 @@ We seek to explore the origin of a diverse series of scientific phenomena with t
 </div>
     
     
-    
+<blink={the}>    
 The vital areas of our research cover nanotechnology, catalysis, atmospheric chemistry, optics, materials physics and biophysics (see [Research](research)). We have also partnered with many theoretical and experimental groups, that span academic and industrial institutions (see [Collaborations](Collaborations)). To foster the importance of science in the academic community, we also conduct research for undergraduate science students, by exposing them to the fascinating world of computational modeling techniques.
 
 We are located at the Department of Chemistry, CMS College, Kottayam (*an autonomous college affiliated to Mahatma gandhi University Kottayam*). Founded in **1817**, the [CMS College](https://cmscollege.ac.in/) is now one of the largest colleges in Kerala with 23 departments offering 47 courses for 2521 students, 138 teaching faculty members and 35 administrative staffs.
