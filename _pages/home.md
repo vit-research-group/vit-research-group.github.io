@@ -6,9 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-Our research group is directed towards understanding and solving some of the challenging and exciting problems in science by utilizing the power of computational and theoretical methods. Our mission is to shed light on the canopy of unexplored knowledge with the aid of computational methods based on classical and modern theories for understanding experimental observations. 
+The research in our group is directed towards understanding and solving some of the challenging and exciting problems in science by utilizing the power of computational and theoretical methods. Our mission is to shed light on the canopy of unexplored knowledge with the aid of computational methods based on classical and modern theories. 
 
-We seek to explore the origin of a diverse series of scientific phenomena with the aid of the above techniques. By doing so, we are also aiming at making science more interesting and fascinating for the researchers who practice it. 
+Towards this mission, we seek to explore the origin of a diverse series of scientific phenomena employing the computational methodologies.The research in our group strives to understand and model complex molecular process using effective theoretical and computational techniques for garnering valuable insights into the process at a quantitative level. By doing so, we are also aiming at making science more interesting and fascinating for the researchers who practice it. To foster the importance of science in the academic community, students from different academic backgrounds are encouraged to work alongside with faculty on research projects. Moreover, we always welcome the passionate undergraduate students to explore the fascinating world of computational modelling techniques to instil the critical and analytical thinking skills in them.
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -39,8 +40,8 @@ We seek to explore the origin of a diverse series of scientific phenomena with t
   </a>
 </div>
     
-        
-The vital areas of our research cover nanotechnology, catalysis, atmospheric chemistry, optics, materials physics and biophysics (see [Research](research)). We have also partnered with many theoretical and experimental groups, that span academic and industrial institutions (see [Collaborations](Collaborations)). To foster the importance of science in the academic community, we also conduct research for undergraduate science students, by exposing them to the fascinating world of computational modeling techniques.
+    
+The vital areas of our research cover nanotechnology, catalysis, atmospheric chemistry, optics, materials physics, and biophysics (see [Research](research)). We collaborate well with many theoretical and experimental groups, both on and off campus (see [Collaborations](Collaborations)). 
 
 We are located at the Department of Chemistry, CMS College, Kottayam (*an autonomous college affiliated to Mahatma gandhi University Kottayam*). Founded in **1817**, the [CMS College](https://cmscollege.ac.in/) is now one of the largest colleges in Kerala with 23 departments offering 47 courses for 2521 students, 138 teaching faculty members and 35 administrative staffs.
 
