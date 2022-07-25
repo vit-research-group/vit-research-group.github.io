@@ -8,11 +8,11 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand ..............................................
+Our group's research program applies computational methods to fundamental and practical problems at the chemical, physical, biological, and material sciences interface. We are working towards developing novel design strategies for metal-based catalysts, sensors, and materials with excellent optoelectronic properties materials in different areas of science like nanotechnology, catalysis, atmospheric chemistry, optics, materials physics, biophysics etc. With the aid of theoretical techniques, we also aim to reveal and understand the microscopic mechanisms of poorly understand chemical and photochemical processes in complex chemical, physical and biological systems. 
 
-Our goal is to develop techniques that enable us to address the questions we find most interesting. We further have group members with different background and interests, working together on computation and simulation.
+Our research spans over four broad areas of science: Mechanistic study of atmospheric reactions, Design strategy for Efficient chromophores for Organic Photovoltaics, Mechanistic Exploration of Transition Metal Catalyzed Cross-Coupling Reactions and Design principles for Localized surface plasmon resonance (LSPR) nanostructures for sensing and solar cell applications.
 
-Here are some themes and topics that we currently work on:
+Here are some brief write-ups on the themes and topics that we currently work on:
 
 **Mechanistic Exploration of Transition Metal Catalyzed Cross-Coupling
 Reactions using Quantum Chemical Studies** 
