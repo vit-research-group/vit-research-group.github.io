@@ -40,13 +40,13 @@
   news2:
   
 - title: "A Detailed Theoretical Investigation to Unravel the Molecular Mechanism of Ligand-free Copper-Catalyzed Suzuki Cross-Coupling Reaction"
-  image: c2.gif
+  image: suzuki.jpg
   description: we have carried out a detailed mechanistic investigation into the ligand-free Cu-catalyzed SMC of unsaturated halides with aryl boronic acid with the aid of Density Functional Theory (DFT) calculations employing Conductor-like Polarizable Continuum Model (CPCM) solvation model. The present study elucidates that in the absence of ancillary ligands on metal, the substrates, base, and solvent molecules could act as pseudo-ancillary ligands to facilitate the cross-coupling reaction. 
   authors: C Rajalakshmi, Anandhu Krishnan, Salim Saranya, Gopinathan Anilkumar and Vibin Ipe Thomas C Rajalakshmi, Anjali Radhakrishnan, M.Ujwaldev Sankuviruthiyil, Anilkumar Gopinathan and Vibin Ipe Thomas  
   link:
     url: https://doi.org/10.1039/D2OB00371F
     display: https://doi.org/10.1039/D2OB00371F (2022)
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: "Rapid Computational Approach Towards Designing Singlet-Fission Chromophores by Tuning the Diradical Character of Heteroatom-Doped Polycyclic Aromatic Hydrocarbons Using the Atom-Specific Fukui Function"
@@ -97,7 +97,7 @@
   link:
     url: https://doi.org/10.1039/D0AN00680G
     display:  https://doi.org/10.1039/D0AN00680G (2020)
-  highlight: 1
+  highlight: 0
 
 
 - title: "Modelling and synthesis of solution processable dibenzothiophene derivative for organic electronics"
