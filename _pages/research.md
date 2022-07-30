@@ -17,6 +17,8 @@ Here are some brief write-ups on the themes and topics that we currently work on
 **Mechanistic Exploration of Transition Metal Catalyzed Cross-Coupling
 Reactions using Quantum Chemical Studies** 
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/tra.png){: style="width: 250px; float: right; margin: 0px  10px"}
+
 Our work is primarily based on the cross-coupling reactions catalyzed by earth abundant, economical, first-row late transition metals like Fe, Co, Ni, Cu and Zn. Due consideration isgiven to both carbon-carbon and carbon-heteroatom cross coupling reactions. Using theDensity Functional Theory (DFT) methods, the thermodynamics and kinetics of the key steps involved in the cross-coupling reactions could be explored. Finding out the most feasible pathway for a particular reaction, could be evoked by probing the nature of transition states, involved in the crucial steps. Due to the inadequacy of experimental techniques in characterizing the transition states, computational techniques emerged as an excellent tool to probe the details of the former. We diligently collaborate with the experimental catalysis research group of Dr. G. Anilkumar ([Google Scholar](https://scholar.google.co.in/citations?hl=en&user=slKQckwAAAAJ&view_op=list_works&sortby=pubdate)) at School of Chemical sciences, MGU, Kerala. For good measure, we also explore the metal- ligand interactions of the active catalytic species present in the reaction. Insights gained in this way will aid in the designing of efficient catalysts and could be extended further to the design of biologically active compounds like benzofuran derivatives.
 
 **Efficient chromophores for Organic Photovoltaics**
