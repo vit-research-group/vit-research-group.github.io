@@ -43,14 +43,9 @@ Towards this mission, we seek to explore the origin of a diverse series of scien
     
 The vital areas of our research cover nanotechnology, catalysis, atmospheric chemistry, optics, materials physics, and biophysics (see [Research](research)). We collaborate well with many theoretical and experimental groups, both on and off campus (see [Collaborations](Collaborations)). 
 
-We are located at the Department of Chemistry, CMS College, Kottayam (*an autonomous college affiliated to Mahatma gandhi University Kottayam*). Founded in **1817**, the [CMS College](https://cmscollege.ac.in/) is now one of the largest colleges in Kerala with 23 departments offering 47 courses for 2521 students, 138 teaching faculty members and 35 administrative staffs.
-
-Within the [Department](https://cmscollege.ac.in/department-of-chemistry.html?dept_id=8), students are always encouraged to work alongside with faculty on research projects and as coauthors on research publications. Students will develop critical and analytical thinking skills as they apply the knowledge and skills from your formal classrooms to cutting-edge research problems. Our graduates are well prepared to enter doctoral degree programs or to directly pursue careers in other fields such as education,  chemical, pharmaceutical industry, business, environmental science, pharmacology, toxicology, geochemistry and others.
+We are located at the [**Department of Chemistry, CMS College, Kottayam**](https://cmscollege.ac.in/department-of-chemistry.html?dept_id=8) (an autonomous college affiliated to Mahatma Gandhi University Kottayam). Founded in 1817, the [CMS College](https://cmscollege.ac.in/) is now one of the largest colleges in Kerala with 23 departments offering 47 courses for 2521 students, 138 teaching faculty members and 35 administrative staff. The Chemistry Department is a Research Centre of the M.G. University from 1985 vide order no. ACAII/1/504/85 dated 29.10.1985.  Within the Department, students are always encouraged to work alongside with faculty on research projects and as coauthors on research publications.
 
  **We are  looking for passionate new PhD students, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-The Chemistry Department is a Research Centre of the M.G. University from 1985 vide order no. ACAII/1/504/85 dated 29.10.1985.
-
 
 <figure class="single">
   <img src="{{ site.url }}{{ site.baseurl }}/images/csir.jpg" style="width: 200px">
