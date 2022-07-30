@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [Principal Investigator](#Principal Investigator), [Team Members](#Team Members), [alumni](#alumni), [administrative support](#administrative-support).
+Jump to [Principal Investigator](#Principal Investigator), [Team Members](#Team Members), [alumni](#alumni).
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
