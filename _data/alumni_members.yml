@@ -1,9 +1,3 @@
-- name: Linta Maruthurethu Biju
-  photo: Linta.JPG
-  duration: Ph.D. student at University of Illinois, USA (2019)
-  info: 
-  email:
-
 - name: Aleesha Mariya George
   photo: aleesha.jpg
   duration: Ph.D. student at Cornell University, USA (2021)
@@ -40,6 +34,12 @@
 - name: Athulya Simon
   photo: athulya.jpeg
   duration: Ph.D. student at Cochin University of Science and Technology, Kochi, Kerala, India (2020)
+  
+- name: Linta Maruthurethu Biju
+  photo: Linta.JPG
+  duration: Ph.D. student at University of Illinois, USA (2019)
+  info: 
+  email:
 
 - name: Ann Varghese
   photo: ann.jpg
