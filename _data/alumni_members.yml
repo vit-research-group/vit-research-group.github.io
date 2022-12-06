@@ -1,8 +1,21 @@
+
+  
+- name: Sudheesh D
+  photo: sud.jpg
+  duration: Ph.D. student at Michigan Technical University, USA (2022)
+  email: sudheesh5797@gmail.com
+
 - name: Aiswarya P A
   photo: aish.jpg
   duration: Ph.D student at Ohio State University, USA (2022)
   info: Research Assistant
   email: aiswaryaprasad19@gmail.com
+  
+- name: Shinto M Francis
+  photo: shin.jpg
+  duration: Ph.D student at Clemson University, USA (2022)
+  info: Research Assistant
+  email: shintofrancism@gmail.com
 
 - name: Aleesha Mariya George
   photo: aleesha.jpg
