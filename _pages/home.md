@@ -29,6 +29,9 @@ Towards this mission, we seek to explore the origin of a diverse series of scien
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home3.jpg" alt="Slide 3" />
     </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home4.jpg" alt="Slide 4" />
+    </div>
         </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
