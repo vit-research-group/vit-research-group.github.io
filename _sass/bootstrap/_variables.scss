@@ -27,9 +27,9 @@ $brand-danger:          #FF4136 !default;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:                #fff !default;
+$body-bg:                #DDD0C8 !default;
 //** Global text color on `<body>`.
-$text-color:            #96C2DB !default;
+$text-color:            #323232 !default;
 
 //** Global textual link color.
 $link-color:            #700000  !default;
@@ -47,7 +47,7 @@ $font-family-sans-serif:  "Source Sans Pro", "Helvetica Neue", Helvetica, Arial,
 $font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
-$font-family-base:        Coco !default;
+$font-family-base:        Georgia !default;
 
 $font-size-base:          16px !default;
 $font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px
@@ -69,7 +69,7 @@ $line-height-computed:    floor(($font-size-base * $line-height-base)) !default;
 $headings-font-family:    Georgia !default;
 $headings-font-weight:    450 !default;
 $headings-line-height:    1.1 !default;
-$headings-color:          #96C2DB !default;
+$headings-color:          #323232 !default;
 
 
 //== Iconography
