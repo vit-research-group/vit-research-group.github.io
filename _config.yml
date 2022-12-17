@@ -9,9 +9,9 @@
 title: VIT Research Group
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the AllanLab.
+  Website of the VIT Computational Research Lab.
 baseurl: ""
-url: ""
+url: "https://vit-research-group.github.io/"
 
 include:
   - .htaccess
