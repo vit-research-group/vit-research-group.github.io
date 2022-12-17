@@ -27,12 +27,12 @@ $brand-danger:          #FF4136 !default;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:                #DDD0C8 !default;
+$body-bg:                #000 !default;
 //** Global text color on `<body>`.
-$text-color:            #323232 !default;
+$text-color:            3AAFA9 !default;
 
 //** Global textual link color.
-$link-color:            #700000  !default;
+$link-color:            3AAFA9  !default;
 //** Link hover color set via `darken()` function.
 $link-hover-color:      #000 !default;
 //** Link hover decoration.
@@ -66,10 +66,10 @@ $line-height-base:        1.428571429 !default; // 20/14
 $line-height-computed:    floor(($font-size-base * $line-height-base)) !default; // ~20px
 
 //** By default, this inherits from the `<body>`.
-$headings-font-family:    Georgia !default;
+$headings-font-family:    sans-serif !default;
 $headings-font-weight:    450 !default;
 $headings-line-height:    1.1 !default;
-$headings-color:          #323232 !default;
+$headings-color:          #3AAFA9 !default;
 
 
 //== Iconography
