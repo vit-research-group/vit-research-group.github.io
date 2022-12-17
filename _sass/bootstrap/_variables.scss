@@ -32,7 +32,7 @@ $body-bg:                #FFF !default;
 $text-color:            #000 !default;
 
 //** Global textual link color.
-$link-color:            #3AAFA9  !default;
+$link-color:            #70000  !default;
 //** Link hover color set via `darken()` function.
 $link-hover-color:      #000 !default;
 //** Link hover decoration.
@@ -47,7 +47,7 @@ $font-family-sans-serif:  "Source Sans Pro", "Helvetica Neue", Helvetica, Arial,
 $font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
-$font-family-base:        Georgia !default;
+$font-family-base:        sans-serif !default;
 
 $font-size-base:          16px !default;
 $font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px
@@ -69,7 +69,7 @@ $line-height-computed:    floor(($font-size-base * $line-height-base)) !default;
 $headings-font-family:    sans-serif !default;
 $headings-font-weight:    450 !default;
 $headings-line-height:    1.1 !default;
-$headings-color:          #3AAFA9 !default;
+$headings-color:          #70000 !default;
 
 
 //== Iconography
@@ -79,7 +79,7 @@ $headings-color:          #3AAFA9 !default;
 //** Load fonts from this directory.
 $icon-font-path: if($bootstrap-sass-asset-helper, "bootstrap/", "../fonts/") !default;
 //** File name for all font files.
-$icon-font-name:          Georgia !default;
+$icon-font-name:          sans-serif !default;
 //** Element ID within SVG icon file.
 $icon-font-svg-id:        "glyphicons_halflingsregular" !default;
 
