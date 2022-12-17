@@ -25,10 +25,10 @@ Towards this mission, we seek to explore the origin of a diverse series of scien
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pa.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home3.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rajach.jpg" alt="Slide 3" />
     </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home4.jpg" alt="Slide 4" />
