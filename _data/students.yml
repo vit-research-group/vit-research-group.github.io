@@ -3,10 +3,9 @@
   info: PhD student
   duration: She joined the research group in January 2019 after her B.Sc from Baselius College, Kottayam, and M.Sc from School of Chemical Science, Mahatma Gandhi University,Kottayam. She is a UGC Junior Research Fellow currently working on the computational reaction mechanistic studies of “oxidation of  atmospherically relevant nitrogen compounds”.
   email: rehinsulay19@cmscollege.ac.in
-  number_educ: 3
+  number_educ: 1
   education1:  Won the <i>best presentation award</i> in the 3rd Global Congress on Chemistry and Catalysis (GCC-2022), Dubai.
-  education2: 
-  education3: 
+
 
 - name: Christina Mariam Mathew
   photo: christina.jpeg
@@ -50,6 +49,7 @@
   duration: She joined the research group in 2019. She has done her B.Sc and M.Sc from CMS college. She is carrying out computational theory investigation on the mechanism of Ulmann reaction using Zn & Mn
   info: Research Assistant
   email: 
+  number_educ: 1
   education1: Winner of <i>best poster presentation award</i> from the Swiss chemical society conference organised in Zurich, Switzerland
   
 - name: Lydia Elizabeth Mathews
