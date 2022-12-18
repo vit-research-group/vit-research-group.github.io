@@ -5,6 +5,9 @@ excerpt: "VIT Group at CMS College"
 sitemap: false
 permalink: /
 ---
+<div style="text-align: justify">
+   The research in our group is directed towards understanding and solving some of the challenging and exciting problems in science by utilizing the power of computational and theoretical methods. Our mission is to shed light on the canopy of unexplored knowledge with the aid of computational methods based on classical and modern theories. Towards this mission, we seek to explore the origin of a diverse series of scientific phenomena employing the computational methodologies.
+</div>
 
 The research in our group is directed towards understanding and solving some of the challenging and exciting problems in science by utilizing the power of computational and theoretical methods. Our mission is to shed light on the canopy of unexplored knowledge with the aid of computational methods based on classical and modern theories. Towards this mission, we seek to explore the origin of a diverse series of scientific phenomena employing the computational methodologies.
 
