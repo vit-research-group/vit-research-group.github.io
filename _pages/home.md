@@ -17,6 +17,7 @@ Exploring the powerful theoretical and computational techniques, the research in
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
     <!-- Items -->
@@ -24,14 +25,17 @@ Exploring the powerful theoretical and computational techniques, the research in
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home1.jpg" alt="Slide 1" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pa.jpg" alt="Slide 2" />
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/h1.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rajach.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pa.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rajach.jpg" alt="Slide 4" />
     </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home4.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home4.jpg" alt="Slide 5" />
     </div>
         </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
