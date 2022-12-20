@@ -6,7 +6,7 @@ permalink: /Collaborations/
 ---
 
 
-# collaborations
+# Collaborations
 {% assign number_printed = 0 %}
 {% for member in site.data.collaborations %}
 
