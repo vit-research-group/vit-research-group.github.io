@@ -31,11 +31,7 @@ the subject line.
 ### Master projects for CMS College students
 If you are a Master student looking for a Master project, contact me (or any group member)
 by email or stop by my office.
-
 ### Bsc / Master students from elsewhere
-Sometimes, we take BSc students or summer interns if we get exceptional applicants.
-
-
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/openings.jpg" width="95%">
 </figure>
