@@ -28,7 +28,6 @@ email. State briefly why you are interested and attach a CV, including informati
 grades you had as an undergraduate and postgraduate. Please insert “PhD Application” in
 the subject line.
 
-
 ### Master projects for CMS College students
 If you are a Master student looking for a Master project, contact me (or any group member)
 by email or stop by my office.
