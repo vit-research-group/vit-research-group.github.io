@@ -12,9 +12,6 @@ permalink: /vacancies
 will be available from June 2023. Postdoc applications are welcome you if you have a
 fellowship. I’d be happy to support you after you apply to our group.**
 
-
-
-
 We are always looking for new group members with passion, talent, and grit!
 
 You will have the chance to work on the grand challenges of Molecular dynamics, quantum
@@ -31,7 +28,10 @@ the subject line.
 ### Master projects for CMS College students
 If you are a Master student looking for a Master project, contact me (or any group member)
 by email or stop by my office.
+
 ### Bsc / Master students from elsewhere
+Sometimes, we take BSc students or summer interns if we get exceptional applicants.
+
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/openings.jpg" width="95%">
 </figure>
