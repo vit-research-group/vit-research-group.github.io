@@ -8,7 +8,9 @@ permalink: /vacancies
 
 # Open positions
 
-**Note: We currently don't openings for additional PhD and postdoc positions. We can only welcome you if you have a fellowship. I'd be happy to support you after you apply to our group.**
+**Note: We currently don’t have openings for an additional PhD student. Three PhD positions
+will be available from June 2023. Postdoc applications are welcome you if you have a
+fellowship. I’d be happy to support you after you apply to our group.**
 
 
 
