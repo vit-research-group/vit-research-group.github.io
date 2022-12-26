@@ -7,7 +7,7 @@ permalink: /
 ---
 <div style="text-align: justify">
 The research in our group is directed towards understanding and solving some of the challenging and exciting problems in science by utilizing the power of computational and theoretical methods. Our mission is to shed light on the canopy of unexplored knowledge with the aid of computational methods based on classical and modern theories. Towards this mission, we seek to explore the origin of a diverse series of scientific phenomena employing the computational methodologies.
-Colored <span style="color:red;">word</span>
+
 Exploring the powerful theoretical and computational techniques, the research in our group aims at understanding and modeling the complex processes for providing valuable quantitative insights at a molecular level. By doing so, we are also aiming at making science more interesting and fascinating for the researchers who practice it. To foster the importance of science in the academic community, students from different academic backgrounds are encouraged to work alongside with faculty on research projects. Moreover, we always welcome the passionate undergraduate students to explore the fascinating world of computational modelling techniques to instil the critical and analytical thinking skills in them.
 </div>
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
