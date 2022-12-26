@@ -7,11 +7,11 @@ permalink: /vacancies
 ---
 
 # Open positions
-
+<div style="text-align: center">
 **Note: We currently don’t have openings for an additional PhD student. <span style="color:#700000;">Three PhD positions</span> 
 will be available from June 2023. Postdoc applications are welcome you if you have a
 fellowship. I’d be happy to support you after you apply to our group.**
-
+</div>
 We are always looking for new group members with passion, talent, and grit!
 
 You will have the chance to work on the grand challenges of Molecular dynamics, quantum
