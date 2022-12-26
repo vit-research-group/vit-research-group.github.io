@@ -7,18 +7,18 @@ permalink: /vacancies
 ---
 
 # Open positions
-<div style="text-align: center">
+<div style="text-align: justify">
 **Note: We currently don’t have openings for an additional PhD student. <span style="color:#700000;">Three PhD positions</span> 
 will be available from June 2023. Postdoc applications are welcome you if you have a
 fellowship. I’d be happy to support you after you apply to our group.**
-</div>
+
 We are always looking for new group members with passion, talent, and grit!
 
 You will have the chance to work on the grand challenges of Molecular dynamics, quantum
 mechanics, Plasmonics. You will be involved in determining the important and interesting
 questions, modelling and optimizing chemical bonds/plasmonic nanostructures, performing
 simulations, and making discoveries.
-
+</div>
 ### Applications for PhD positions
 If you are interested in working with us as a PhD student or postdoc, please send me an
 email. State briefly why you are interested and attach a CV, including information about the
