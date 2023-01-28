@@ -345,6 +345,17 @@
   highlight: 0
   
   
+- title: "<b>2009</b>"
+  image: 
+  description: 
+  authors: 
+  link:
+    url:
+    display: 
+  highlight: 0
+  news2:
+  
+  
 - title: "Toward understanding the dissociation of weak acids in water: 1. using ir spectroscopy to identify proton-shared hydrogen-bonded ion-pair intermediates"
   image: 
   description: 
@@ -353,6 +364,17 @@
     url: https://doi.org/10.1021/jp807378x
     display:  J. Phys. Chem. B 2009, 113, 13, 4152–4160,  doi.org/10.1021/jp807378x
   highlight: 0
+  
+
+- title: "<b>2008</b>"
+  image: 
+  description: 
+  authors: 
+  link:
+    url:
+    display: 
+  highlight: 0
+  news2:
   
   
 - title: "Spectral signatures and molecular origin of acid dissociation intermediates"
