@@ -249,6 +249,17 @@
   highlight: 0
   
   
+  - title: "<b>2013</b>"
+  image: 
+  description: 
+  authors: 
+  link:
+    url:
+    display: 
+  highlight: 0
+  news2:
+  
+  
 - title: "Moderately strong phenols dissociate by forming an ion-pair kinetic intermediate"
   image: 
   description: 
@@ -259,6 +270,17 @@
   highlight: 0
 
 
+- title: "<b>2012</b>"
+  image: 
+  description: 
+  authors: 
+  link:
+    url:
+    display: 
+  highlight: 0
+  news2:
+  
+  
 - title: "Concerted and sequential proton transfer mechanisms in water-separated acid-base encounter pairs"
   image: 
   description: 
@@ -267,6 +289,17 @@
     url: https://doi.org/10.1021/jz3012639
     display:  J. Phys. Chem. Lett. 2012, 3, 18, 2633–2637, doi.org/10.1021/jz3012639
   highlight: 0
+  
+  
+  - title: "<b>2011</b>"
+  image: 
+  description: 
+  authors: 
+  link:
+    url:
+    display: 
+  highlight: 0
+  news2: 
   
   
 - title: "A computational study of ultrafast acid dissociation and acid-base neutralization reactions. II. the relationship between the coordination state of solvent molecules and concerted versus sequential acid dissociation"
