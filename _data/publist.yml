@@ -15,7 +15,7 @@
   image: 
   description: 
   authors: Devika Mohan, S Simitha, Vibin Ipe Thomas and Jesly Jacob
-  link: Devika Mohan et al 2022 IOP Conf. Ser. Mater. Sci. Eng. 1263 012003
+  link: 
     url: https://doi.org/10.1088/1757-899X/1263/1/012003
     display: https://doi.org/10.1088/1757-899X/1263/1/012003
   highlight: 0
@@ -184,6 +184,18 @@
     url: https://doi.org/10.1016/j.ijms.2019.116207
     display:  https://doi.org/10.1016/j.ijms.2019.116207 (2019)
   highlight: 0
+  
+  
+  - title: "<b>2018</b>"
+  image: 
+  description: 
+  authors: 
+  link:
+    url:
+    display: 
+  highlight: 0
+  news2:
+  
   
 - title: "Theoretical Probing of Weak Anion–Cation Interactions in Certain Pyridinium-Based Ionic Liquid Ion Pairs and the Application of Molecular Electrostatic Potential in Their Ionic Crystal Density Determination: A Comparative Study Using Density Functional Approach"
   image: 
