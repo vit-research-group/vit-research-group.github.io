@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications see [below](#full-list-of-publications) or go to [**Google Scholar**](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Q9QgjcEAAAAJ&sortby=pubdate), [**ORCHID**](https://orcid.org/0000-0003-3928-2319))
+(For selected list of our publications see [below](#full-list-of-publications) or go to [**Google Scholar**](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Q9QgjcEAAAAJ&sortby=pubdate), [**ORCHID**](https://orcid.org/0000-0003-3928-2319))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
