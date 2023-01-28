@@ -133,6 +133,15 @@
   highlight: 1
   news2: 
   
+- title: "<b>2020</b>"
+  image: 
+  description: 
+  authors: 
+  link:
+    url:
+    display: 
+  highlight: 0
+  news2:
 
 - title: "LC-MS analysis of p-aminosalicylic acid under electrospray ionization conditions manifests a profound solvent effect"
   image: Get.jpg
