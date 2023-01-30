@@ -341,7 +341,7 @@
   authors:  Thomas, V., Maurer, P., Iftimie, R.
   link:
     url: https://doi.org/10.1021/jp102822c
-    display:  J. Phys. Chem. B 2010, 114, 24, 8147–8155, doi.org/10.1021/jp102822c
+    display:  <b>Journal of Physical Chemistry B, 2010, 114, 24, 8147–8155</b>, doi.org/10.1021/jp102822c
   highlight: 0
   
   
@@ -362,7 +362,7 @@
   authors:  Thomas, V., Maurer, P., Iftimie, R.
   link:
     url: https://doi.org/10.1021/jp807378x
-    display:  J. Phys. Chem. B 2009, 113, 13, 4152–4160, doi.org/10.1021/jp807378x
+    display: <b> Journal of Physical Chemistry B, 2009, 113, 13, 4152–4160 </b>, doi.org/10.1021/jp807378x
   highlight: 0
   
 
@@ -383,5 +383,5 @@
   authors:  Iftimie, R., Thomas, V., Plessis, S., Marchand, P., Ayotte, P.
   link:
     url: https://doi.org/10.1021/ja077846o
-    display: <b> J. Am. Chem. Soc. 2008, 130, 18, 5901–5907 </b>, doi.org/10.1021/ja077846o
+    display: <b> Journal of American Chemical Society, 2008, 130, 18, 5901–5907 </b>, doi.org/10.1021/ja077846o
   highlight: 0
