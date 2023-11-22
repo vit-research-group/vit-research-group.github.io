@@ -1,3 +1,32 @@
+- name: Rehin Sulay
+  photo: reh.jpg
+  duration: Post.Doc at Southern Methododist University, USA (2023)
+  info: 
+  email: rehinsulay19@cmscollege.ac.in
+
+- name: Jintumol Mathew
+  photo: jintu.jpg
+  duration: Ph.D student at University of Illinois, USA (2023)
+  info: 
+  email: jintumoljewel@gmail.com
+
+- name: Lakshmi Anil
+  photo: lakshmi.jpg
+  duration: Ph.D student at National Institute of Scientific Research Energy Material Science and Telecommunications,Canada, USA (2023)
+  info: 
+  email: lakshmianil967@gmail.com
+  
+- name: Nandu Krishna R
+  photo: nandu.jpeg
+  duration: Ph.D student at Marquette University, USA (2023)
+  info: 
+  email: 
+
+- name: Praseetha Prakash
+  photo: prs.jpg
+  duration: Ph.D. student at Case Western University, USA (2023)
+  email: praseethaprakash1997@gmail.com
+  
 - name: Sudheesh D
   photo: sud.jpg
   duration: Ph.D. student at Michigan Technical University, USA (2022)
@@ -6,7 +35,7 @@
 - name: Aiswarya P A
   photo: aish.jpg
   duration: Ph.D student at Ohio State University, USA (2022)
-  info: Research Assistant
+  info:
   email: aiswaryaprasad19@gmail.com
   
 - name: Aswathy Jayachandran
