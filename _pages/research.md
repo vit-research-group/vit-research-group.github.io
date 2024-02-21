@@ -22,6 +22,7 @@ Within our research group, the synergy of machine learning algorithms is propell
 By employing machine learning algorithms, we are developing predictive models for predicting the reaction outcomes of various transition metal-catalyzed organic reactions. These models leverage diverse data sources, including experimental results, quantum mechanical calculations, and structural information, allowing us to rapidly assess and prioritize potential catalysts for targeted reactions.
 Further, these ML algorithms are also used for the elucidation of complex reaction mechanisms by analyzing experimental and computational data. This has facilitated a deeper understanding of catalytic processes, aiding in the identification of key intermediates and pathways, thereby guiding the rational design of catalysts with improved performance. This data-driven approach allows for the identification of optimal conditions that might be challenging to deduce through traditional experimental design.
 </div>
+
 **Localized surface plasmon resonace (LSPR) nanostructures for sensing and solar cell applications**
 <div style="text-align: justify">
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/pl2.png){: style="width: 350px; float: right; margin: 0px  10px"}
