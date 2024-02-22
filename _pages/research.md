@@ -10,7 +10,7 @@ permalink: /research/
 <div style="text-align: justify">
 Our group's research program applies computational methods to fundamental and practical problems at the chemical, physical, biological, and material sciences interface. We are working towards developing novel design strategies for metal-based catalysts, sensors, and materials with excellent optoelectronic properties materials in different areas of science like nanotechnology, catalysis, atmospheric chemistry, optics, materials physics, biophysics etc. With the aid of theoretical techniques, we also aim to reveal and understand the microscopic mechanisms of poorly understand chemical and photochemical processes in complex chemical, physical and biological systems. 
 
-Our research spans over four broad areas of science:Machine Learning Applications in Catalysis, Mechanistic study of various class of chemical reactions involving atmospheric and catalytic processes, Design strategy for Efficient chromophores for Organic Photovoltaics, Mechanistic Exploration of Transition Metal Catalyzed Cross-Coupling Reactions and Design principles for Localized surface plasmon resonance (LSPR) nanostructures for sensing and solar cell applications.
+Our research spans over four broad areas :Machine Learning Applications in Catalysis, Mechanistic study of various class of chemical reactions which involves atmospheric reactions, and  catalytic reactions,  Design strategy for Efficient chromophores for Organic Photovoltaics, and Design principles for Localized surface plasmon resonance (LSPR) nanostructures for sensing and solar cell applications.
 </div>
 Here are some brief write-ups on the themes and topics that we currently work on:
 
@@ -30,8 +30,7 @@ By employing machine learning algorithms, we are developing predictive models fo
 Following its broad applicability in chemical and biosensing, the characteristic light-matter interaction at the nanoscale regime exhibited by plasmonic structures has recently sparked a lot of interest. The plasmonics wing at the VIT group in collaboration with Dr. Jesly Jacob focuses on localized surface plasmon resonance (LSPR) refractive index sensors that take advantage of the highly tuneable resonant profiles of plasmonic structures, specifically cavity-based nanoplatforms. Theoretical simulations and performance optimizations are carried out via finite element method. Fine-tuning of the geometrical and material parameters of nanomaterials resulted in proposing hybrid nano sensor platforms with improved performance parameters. Quantum dots, metallic nano dots, nanowires etc. following their plasmon- exciton and dual plasmon coupling are qualitatively exploited for productive structure performance.  In addition, breaking of symmetry, channel based multi analyte sensing and direction dependent functionality forms the currently ongoing research topics.
 </div>
 
-**Mechanistic Exploration of Transition Metal Catalyzed Cross-Coupling
-Reactions using Quantum Chemical Studies** 
+**Mechanistic Exploration of Transition Metal Catalyzed Cross-Coupling Reactions using Quantum Chemical Studies** 
 <div style="text-align: justify">
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/tra.png){: style="width: 250px; float: right; margin: 0px  10px"}
 
