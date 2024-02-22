@@ -10,7 +10,7 @@ permalink: /research/
 <div style="text-align: justify">
 Our group's research program applies computational methods to fundamental and practical problems at the chemical, physical, biological, and material sciences interface. We are working towards developing novel design strategies for metal-based catalysts, sensors, and materials with excellent optoelectronic properties materials in different areas of science like nanotechnology, catalysis, atmospheric chemistry, optics, materials physics, biophysics etc. With the aid of theoretical techniques, we also aim to reveal and understand the microscopic mechanisms of poorly understand chemical and photochemical processes in complex chemical, physical and biological systems. 
 
-Our research spans over four broad areas of science: Mechanistic study of atmospheric reactions, Design strategy for Efficient chromophores for Organic Photovoltaics, Mechanistic Exploration of Transition Metal Catalyzed Cross-Coupling Reactions and Design principles for Localized surface plasmon resonance (LSPR) nanostructures for sensing and solar cell applications.
+Our research spans over four broad areas of science:Machine Learning Applications in Catalysis, Mechanistic study of various class of chemical reactions involving atmospheric and catalytic processes, Design strategy for Efficient chromophores for Organic Photovoltaics, Mechanistic Exploration of Transition Metal Catalyzed Cross-Coupling Reactions and Design principles for Localized surface plasmon resonance (LSPR) nanostructures for sensing and solar cell applications.
 </div>
 Here are some brief write-ups on the themes and topics that we currently work on:
 
