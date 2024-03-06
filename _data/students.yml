@@ -18,38 +18,17 @@
   education2: 
   education3: 
 
-- name: Parvathi Santhoshkumar
-  photo: parvathi.jpg
-  duration: Parvathi has completed her undergraduate and masters in Chemistry from CMS College Kottayam. She is carrying out computational investigation on the mechanism of Ullmann type cross-coupling reaction using Zn & Mn catalysts. She has also received the best presentation award in the SCS Fall meeting 2020 held in Zurich, Switzerland. 
-  info: Research Assistant
-  email: parvathi.sk99@gmail.com 
-  
 - name: Lydia Elizabeth Mathews
   photo: lydia.jpeg
   duration: She has completed her Bachelors in Chemistry from Mar Thoma College, Thiruvalla (Mahatma Gandhi University) and her masters in Chemistry from CMS College, Kottayam. She is currently carrying out the computational investigation on the mechanism of Zn-catalyzed Ullmann type cross- coupling reactions.
   email: lydiathengumpalli@gmail.com
   
-- name: Sophia Reji
-  photo: sofia.jpeg
-  duration: She has completed her undergraduate in Physics from Alphonsa College Pala and completed her masters in Physics from Assumption College Changanacherry. She is currently working on the theoretical study of the plasmonic behaviour of nanoparticles using FDTD method in collaboration with Dr. Jesly Jacob, Assumption College Chanaganacherry.
-  info: Research Assistant
-  email: sophiaregi0@gmail.com
-  
-- name: Krishnaveni G
-  photo: krsh.jpg
-  duration: Krishnaveni has completed her BSc and MSc in chemistry from CMS College Kottayam. She is carrying out computational mechanistic studies of iron catalyzed cross coupling reaction.
-  email: krishnavenigopakumar00@gmail.com 
-
 - name: Shilpa Sarah Mathew
   photo: Shilpa.jpg
   duration: Shilpa completed her Master’s programme in Chemistry from CMS College, Kottayam. During her postgraduate studies, she did an internship at IISc Bangalore. She is currently working on Mechanistic study of iron catalyzed cross-coupling reactions.
   email: shilpasm870@gmail.com 
   
-- name: Nandana Sailesh
-  photo: nandana.jpeg
-  duration: Nandana completed her Master’s programme in Chemistry from CMS College, Kottayam. She has qualified GATE 2023. She is working in the area of computational mechanistic studies of copper catalyzed cross coupling reaction.
- 
-- name: Vivek Vijay
+ - name: Vivek Vijay
   photo: vivek.jpeg
   duration: Vivek has completed his Master’s programme in Chemistry from CMS College, Kottayam. He is currently working on the application of machine learning for homogeneous catalysis.
 
