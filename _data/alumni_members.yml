@@ -3,11 +3,6 @@
   duration: 
   email: krishnavenigopakumar00@gmail.com 
 
-- name: Sophia Reji
-  photo: sofia.jpeg
-  info: M.Sc Physics
-  email: sophiaregi0@gmail.com
-
 - name: Parvathi Santhoshkumar
   photo: parvathi.jpg
   email: parvathi.sk99@gmail.com 
@@ -22,11 +17,16 @@
   duration: Basel University, Switzerland
   email: abhiramiv28@gmail.com
 
-  - name: Devika Mohan
+- name: Devika Mohan
   photo: dev.jpg
   duration: University of Pittsburgh
   info:
   email: devikamohan88@gmail.com
+
+- name: Sophia Reji
+  photo: sofia.jpeg
+  info: M.Sc Physics
+  email: sophiaregi0@gmail.com
 
 - name: Rehin Sulay
   photo: reh.jpg
