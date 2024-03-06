@@ -20,9 +20,13 @@
 - name: Devika Mohan
   photo: dev.jpg
   duration: University of Pittsburgh
-  info:
   email: devikamohan88@gmail.com
 
+- name: Vivek Vijay
+  photo: vivek.jpeg
+  info:  Associate Analyst, ZIFO, Chennai
+  duration: M.Sc Physics
+  
 - name: Sophia Reji
   photo: sofia.jpeg
   info: M.Sc Physics
