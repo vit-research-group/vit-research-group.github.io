@@ -1,3 +1,21 @@
+- name: Ph.D Students
+  photo:
+  info: 
+  duration: 
+  email: 
+  
+- name: Simitha S
+  photo: simitha.jpg
+  info: Ph.D, CMS College Kottayam
+  duration: Post.Doc at University of Prague, Czech Republic (2024)
+  email: simitha@cmscollege.ac.in
+
+- name: Rehin Sulay
+  photo: reh.jpg
+  info: Ph.D, CMS College Kottayam
+  duration: Post.Doc at Southern Methodist University, USA (2023)
+  email: rehinsulay19@cmscollege.ac.in
+  
 - name: Post Graduate Students
   photo: 
   duration: 
@@ -13,12 +31,6 @@
   photo: parvathi.jpg
   duration: Ph.D at University of Illinois,Chicago, USA (2024)
   email: parvathi.sk99@gmail.com 
-
-- name: Simitha S
-  photo: simitha.jpg
-  info: Ph.D, CMS College Kottayam
-  duration: Post.Doc at University of Prague, Czech Republic (2024)
-  email: simitha@cmscollege.ac.in
   
 - name: Abhirami Vijayakumar
   photo: asw.jpg
@@ -37,13 +49,6 @@
   info: M.Sc Physics, CMS College Kottayam  
   duration: Associate Analyst and Software Developer, ZIFO, Chennai
   email: vivekvijay0416@gmail.com 
-  
-
-- name: Rehin Sulay
-  photo: reh.jpg
-  info: Ph.D, CMS College Kottayam
-  duration: Post.Doc at Southern Methodist University, USA (2023)
-  email: rehinsulay19@cmscollege.ac.in
 
 - name: Jintumol Mathew
   photo: jintu.jpg
@@ -56,12 +61,6 @@
   duration: Ph.D student at National Institute of Scientific Research Energy Material Science and Telecommunications,Canada, USA (2023)
   info: 
   email: lakshmianil967@gmail.com
-  
-- name: Nandu Krishna R
-  photo: nandu.jpeg
-  duration: Ph.D student at Marquette University, USA (2023)
-  info: 
-  email: 
 
 - name: Praseetha Prakash
   photo: prs.jpg
@@ -146,14 +145,28 @@
   email: 
   number_educ: 1
   
-- name: Carolin Anna Joy
-  photo: carolin1.jpeg
-  duration: Ph.D. student at Marquette University, USA (2019)
-  email: 
-  number_educ: 1 
-  
 - name: Irin. P. Tom
   photo: irin.jpg
   duration: Ph.D. student at University of Illinois, USA (2019)
+  email: 
+
+    
+- name: Under Graduate Students
+  photo: 
+  duration: 
+  info: 
+  email: 
+
+    
+- name: Nandu Krishna R
+  photo: nandu.jpeg
+  duration: Ph.D student at Marquette University, USA (2023)
+  info: 
+  email: 
+  number_educ: 1 
+
+- name: Carolin Anna Joy
+  photo: carolin1.jpeg
+  duration: Ph.D. student at Marquette University, USA (2019)
   email: 
   number_educ: 1 
