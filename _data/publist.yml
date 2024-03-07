@@ -53,6 +53,7 @@
   highlight: 0
   news2:
 
+
 - title: "Comprehensive computational study on reaction mechanism of N-Nitroso dimethyl amine formation from substituted hydrazine derivatives during ozonation"
   image: 
   description: 
@@ -63,6 +64,7 @@
   highlight: 0
   news2:
 
+
 - title: "Theoretical modelling of a deformation based concave square ring-square disc (SR-SD) silver structure for pressure sensing"
   image: 
   description: 
@@ -71,6 +73,17 @@
     url:  https://doi.org/10.1088/1757-899X/1263/1/012004
     display: <b>https://doi.org/10.1088/1757-899X/1263/1/012004 </b>
   highlight: 
+  news2:
+
+
+- title: "<b>2022</b>"
+  image: 
+  description: 
+  authors: 
+  link:
+    url:
+    display: 
+  highlight: 0
   news2:
   
 
