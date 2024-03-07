@@ -3,11 +3,64 @@
 - title: "Mechanistic Views on the Manganese Catalyzed Homogeneous Coupling Reactions"
   image: 
   description: 
-  authors: P Santhoshkumar, C Rajalakshmi, R Sulay, VI Thomas
+  authors: Parvathi Santhoshkumar, Rajalakshmi C, Rehin Sulay, Vibin Ipe Thomas
   link:
     url:  https://doi.org/10.2174/1385272827666230803092641
     display: <b>https://doi.org/10.2174/1385272827666230803092641 </b>
   highlight: 0
+  news2:
+
+
+ - title: "Mechanistic Views on First-row Earth-Abundant Transition Metal Catalyzed Ullmann-type O-Arylation Reactions"
+  image: 
+  description: Invited Article for Laurates Issue of Chimia
+  authors: Parvathy Santhoshkumar, Rajalakshmi C, Lydia Elizabeth Mathews, Rehin Sulay, Vibin Ipe Thomas
+  link:
+  url:   https://doi.org/10.2533/chimia.2023.246
+  display: <b>https://doi.org/10.2533/chimia.2023.246 </b>
+  highlight: 1
+  news2:
+
+
+- title: "Design of hexagonal gold nano disks for surface-enhanced Raman scattering based sensing"
+  image: 
+  description: 
+  authors: S Simitha, Devika Mohan, Sophia Regi, Jesly Jacob, Vibin Ipe Thomas
+  link:
+  url:  https://doi.org/10.1016/j.matpr.2023.10.067
+  display: <b>https://doi.org/10.1016/j.matpr.2023.10.067 </b>
+  highlight: 0
+  news2:
+
+
+- title: "A dual functional asymmetric plasmonic silver nanostructure for temperature and magnetic field sensing"
+  image: 
+  description: 
+  authors: S Simitha, Devika Mohan, Shinto M Francis, Ajith Ramachandran, Jesly Jacob, Vibin Ipe Thomas
+  link:
+  url:  https://doi.org/10.1039/D3CP01748F
+  display: <b>https://doi.org/10.1039/D3CP01748F </b>
+  highlight: 1
+  news2:
+  
+- title: "Theoretical modelling of Au and Ag hollow cylinders for high resolution refractive index sensing of bio-analytes and gases"
+  image: 
+  description: 
+  authors: Devika Mohan, S Simitha, Vibin Ipe Thomas, Jesly Jacob
+  link:
+  url:  https://doi.org/10.1088/1757-899X/1263/1/012003
+  display: <b>https://doi.org/10.1088/1757-899X/1263/1/012003 </b>
+  highlight: 0
+  news2:
+
+ - title: "Comprehensive computational study on reaction mechanism of N-Nitroso dimethyl amine formation from substituted hydrazine derivatives during ozonation"
+  image: 
+  description: 
+  authors: Rehin Sulay, Jintumol Mathew, Anandhu Krishnan, Vibin Ipe Thomas
+  link:
+    url:  https://doi.org/10.1016/j.heliyon.2023.e14511
+    display: <b>https://doi.org/10.1016/j.heliyon.2023.e14511 </b>
+  highlight: 1
   news2:
   
 
@@ -90,7 +143,7 @@
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.jpca.1c08094
     display: <b>Journal of Physical Chemistry A, 2022, 126, 10, 1579–1590</b>, https://pubs.acs.org/doi/10.1021/acs.jpca.1c08094 
-  highlight: 1
+  highlight: 
   news2: 
 
 - title: "Dual channel plasmonic hybrid system as potential multi-analyte and multi-parameter sensor"
@@ -100,7 +153,7 @@
   link:
     url: https://doi.org/10.1016/j.optlastec.2022.107853
     display: <b>Optics & Laser Technology, 2022, 149, 107853</b>, https://doi.org/10.1016/j.optlastec.2022.107853 
-  highlight: 1
+  highlight: 
   news2: 
   
 - title: "<b>2021</b>"
