@@ -1,12 +1,12 @@
 
 
-- title: "<b>2022</b>"
+- title: "Mechanistic Views on the Manganese Catalyzed Homogeneous Coupling Reactions"
   image: 
   description: 
-  authors: 
-  link:
+  authors: P Santhoshkumar, C Rajalakshmi, R Sulay, VI Thomas
+  link: https://doi.org/10.2174/1385272827666230803092641
     url:
-    display: 
+    display: <b>https://doi.org/10.2174/1385272827666230803092641 </b>
   highlight: 0
   news2:
   
@@ -49,7 +49,7 @@
   link:
     url: https://www.mdpi.com/1099-4300/24/9/1257
     display: <b>Entropy, 2022, 24(9), 1257 </b>, https://www.mdpi.com/1099-4300/24/9/1257 
-  highlight: 1
+  highlight: 
   news2: 
   
 
