@@ -1,5 +1,4 @@
 - name: Ph.D Students
-  photo:
   info: 
   duration: 
   email: 
@@ -17,7 +16,6 @@
   email: rehinsulay19@cmscollege.ac.in
   
 - name: Post Graduate Students
-  photo: 
   duration: 
   email: 
 
@@ -152,7 +150,6 @@
 
     
 - name: Under Graduate Students
-  photo: 
   duration: 
   info: 
   email: 
