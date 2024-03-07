@@ -9,8 +9,7 @@
   highlight: 0
   news2:
   
-
-- title: "Mechanistic Views on First-row Earth-Abundant Transition Metal Catalyzed Ullmann-type O-Arylation Reactions"
+  - title: "Mechanistic Views on First-row Earth-Abundant Transition Metal Catalyzed Ullmann-type O-Arylation Reactions"
   image: 
   description: Invited Article for Laurates Issue of Chimia
   authors: Parvathi Santhoshkumar, Rajalakshmi C, Lydia Elizabeth Mathews, Rehin Sulay, Vibin Ipe Thomas
@@ -75,7 +74,6 @@
   highlight: 
   news2:
 
-
 - title: "<b>2022</b>"
   image: 
   description: 
@@ -86,7 +84,6 @@
   highlight: 0
   news2:
   
-
 - title: "Theoretical modelling of Au and Ag hollow cylinders for high resolution refractive index sensing of bio-analytes and gases"
   image: 
   description: 
@@ -221,7 +218,6 @@
   highlight: 0
   news2:
   
-
 - title: "LC-MS analysis of p-aminosalicylic acid under electrospray ionization conditions manifests a profound solvent effect"
   image: Get.jpg
   description: Selected-ion recording (SIR) or multiple-reaction monitoring (MRM) protocols are widely employed for the quantification of targeted analytes by liquid chromatography-mass spectrometry (LC-MS). Using p-aminosalicylic acid (PAS) as a model compound, we demonstrate that the nature of the LC mobile phase exerts a significant effect on the chromatographic peak intensities.
@@ -252,7 +248,6 @@
   highlight: 0
   news2:
   
-  
 - title: "Solvent dependent ESI-collisionally induced dissociation of protonated nitenpyram"
   image: 
   description: 
@@ -261,7 +256,6 @@
     url: https://doi.org/10.1016/j.ijms.2019.116207
     display: <b>International Journal of Mass Spectrometry, 2019, 445, 116207</b>, https://doi.org/10.1016/j.ijms.2019.116207
   highlight: 0
-  
   
 - title: "<b>2018</b>"
   image: 
@@ -272,7 +266,6 @@
     display: 
   highlight: 0
   news2:
-  
   
 - title: "Theoretical Probing of Weak Anion–Cation Interactions in Certain Pyridinium-Based Ionic Liquid Ion Pairs and the Application of Molecular Electrostatic Potential in Their Ionic Crystal Density Determination: A Comparative Study Using Density Functional Approach"
   image: 
