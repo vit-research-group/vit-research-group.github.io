@@ -1,7 +1,10 @@
 
- ## Ph.D Students
- 
-  
+- name: Ph.D Students
+  photo: 
+  info: 
+  duration:
+  email:
+
 - name: Simitha S
   photo: simitha.jpg
   info: Ph.D, CMS College Kottayam
