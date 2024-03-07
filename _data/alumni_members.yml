@@ -20,17 +20,19 @@
 
 - name: Devika Mohan
   photo: dev.jpg
+  info: M.Sc Physics, Assumption College CHamganacherry 
   duration: Ph.D at University of Pittsburgh, USA (2024)
   email: devikamohan88@gmail.com
 
 - name: Vivek Vijay
   photo: vivek.jpeg
-  info:  Associate Analyst, ZIFO, Chennai
-  duration: M.Sc Physics
+  info: M.Sc Physics, CMS College Kottayam  
+  duration: Associate Analyst and Software Developer, ZIFO, Chennai
+  email: vivekvijay0416@gmail.com 
   
 - name: Sophia Reji
   photo: sofia.jpeg
-  info: M.Sc Physics
+  info: M.Sc Physics, Assumption College Changanacherry
   email: sophiaregi0@gmail.com
 
 - name: Rehin Sulay
@@ -70,7 +72,7 @@
 - name: Aiswarya P A
   photo: aish.jpg
   duration: Ph.D student at Ohio State University, USA (2022)
-  info: M.Sc Physics
+  info: M.Sc Physics, CMS College Kottayam
   email: aiswaryaprasad19@gmail.com
   
 - name: Aswathy Jayachandran
