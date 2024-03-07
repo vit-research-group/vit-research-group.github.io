@@ -32,7 +32,7 @@ $body-bg:                #FFF !default;
 $text-color:            #000 !default;
 
 //** Global textual link color.
-$link-color:            #700000  !default;
+$link-color:            #39A7FF  !default;
 //** Link hover color set via `darken()` function.
 $link-hover-color:      #000 !default;
 //** Link hover decoration.
@@ -69,7 +69,7 @@ $line-height-computed:    floor(($font-size-base * $line-height-base)) !default;
 $headings-font-family:    Helvetica Neue !default;
 $headings-font-weight:    450 !default;
 $headings-line-height:    1.1 !default;
-$headings-color:          #700000 !default;
+$headings-color:          #39A7FF !default;
 
 
 //== Iconography
@@ -371,7 +371,7 @@ $navbar-default-border:            #ede6e6 !default;
 
 // Navbar links
 $navbar-default-link-color:                #fff !default;
-$navbar-default-link-hover-color:          #700000 !default;
+$navbar-default-link-hover-color:          #39A7FF !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            #fff !default;
