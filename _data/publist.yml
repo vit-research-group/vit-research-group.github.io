@@ -62,6 +62,16 @@
     display: <b>https://doi.org/10.1016/j.heliyon.2023.e14511 </b>
   highlight: 1
   news2:
+
+  - title: "Theoretical modelling of a deformation based concave square ring-square disc (SR-SD) silver structure for pressure sensing"
+  image: 
+  description: 
+  authors: S Simitha, Shinto M Francis, Jesly Jacob, Vibin Ipe Thomas
+  link:
+    url:  https://doi.org/10.1088/1757-899X/1263/1/012004
+    display: <b>https://doi.org/10.1088/1757-899X/1263/1/012004 </b>
+  highlight: 
+  news2:
   
 
 - title: "Theoretical modelling of Au and Ag hollow cylinders for high resolution refractive index sensing of bio-analytes and gases"
@@ -133,7 +143,7 @@
   link:
     url: https://doi.org/10.1039/D2OB00371F
     display: <b>Organic and Biomolecular Chemistry, 2022,20, 4539-4552</b>, https://doi.org/10.1039/D2OB00371F 
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: "Rapid Computational Approach Towards Designing Singlet-Fission Chromophores by Tuning the Diradical Character of Heteroatom-Doped Polycyclic Aromatic Hydrocarbons Using the Atom-Specific Fukui Function"
@@ -143,7 +153,7 @@
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.jpca.1c08094
     display: <b>Journal of Physical Chemistry A, 2022, 126, 10, 1579–1590</b>, https://pubs.acs.org/doi/10.1021/acs.jpca.1c08094 
-  highlight: 
+  highlight: 1
   news2: 
 
 - title: "Dual channel plasmonic hybrid system as potential multi-analyte and multi-parameter sensor"
@@ -183,7 +193,7 @@
   link:
     url: https://doi.org/10.1016/j.poly.2020.114869
     display:  <b>Polyhedron, 2021, 193, 114869</b>, https://doi.org/10.1016/j.poly.2020.114869 
-  highlight: 1
+  highlight: 
   news2: 
   
   
