@@ -177,7 +177,6 @@ Jump to [Principal Investigator](#Principal Investigator), [Team Members](#Team 
 {% endif %}
 
 ## Alumni
-## Ph.D
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
