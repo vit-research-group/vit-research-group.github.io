@@ -131,7 +131,7 @@
   link:
     url: https://doi.org/10.1039/D2OB00371F
     display: <b>Organic and Biomolecular Chemistry, 2022,20, 4539-4552</b>, https://doi.org/10.1039/D2OB00371F 
-  highlight: 1
+  highlight: 0
   news2: 
 
 - title: "Rapid Computational Approach Towards Designing Singlet-Fission Chromophores by Tuning the Diradical Character of Heteroatom-Doped Polycyclic Aromatic Hydrocarbons Using the Atom-Specific Fukui Function"
@@ -141,7 +141,7 @@
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.jpca.1c08094
     display: <b>Journal of Physical Chemistry A, 2022, 126, 10, 1579–1590</b>, https://pubs.acs.org/doi/10.1021/acs.jpca.1c08094 
-  highlight: 1
+  highlight: 0
   news2: 
 
 - title: "Dual channel plasmonic hybrid system as potential multi-analyte and multi-parameter sensor"
